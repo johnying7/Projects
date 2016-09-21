@@ -1,0 +1,23 @@
+version 1.1 changes (1/27/2016)
+
+-imported unity water assets for login screen to be updated to 5.3.1f
+
+-modified tool handle/wooden shafts:
+	changed the collider to be the appropriate size of the mesh
+
+-deleted major unused assets:
+	deleted parse & photon networking assets as they weren't core to the demo game
+
+-modified sightTrigger script:
+	fixed crafting collision with drop item position object
+
+-modified inventory2:
+	fixed crafting assembly order to any order (head first, then shaft, & vice versa)
+
+-moved tool parts:
+	moved several different tool parts for easier demo purposes and testing
+
+
+
+version 1.0
+-base game

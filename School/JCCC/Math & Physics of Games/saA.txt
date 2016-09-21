@@ -1,0 +1,12 @@
+	float getPEVector(Vector3D r)
+	{
+		float g;
+		g = 6.67 * 10^-11;
+		float m1 = 5.98 * 10^24;
+		float m2 = 225;
+
+		return -1.0f * g * m1 * m2 / r.getMagnitude();
+	}
+
+pe = -g( (m1 * m2)/r )
+r = sqrt( (x*x) + (y*y) );

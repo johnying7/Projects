@@ -1,0 +1,36 @@
+/////////////////////////
+//Newest Updates On Top//
+/////////////////////////
+
+4/23/2013 - John Ying
+
+-The previous alterations at school did not save (I think because the flash drive was pulled out prematurely)
+ so the changes were redone. If any are missing, and fixed, please post it on the changelog.
+-Things changed
+	*tags on cannon script to capitalize the P in PlayerShip
+	*audio source on canonPrefab & attached grenade sound
+	*In cannonballScript.cs added disappearing cannonballs when colliding with Land
+	*In pause.cs lines 59,60,82, & 83.....fixed & reversed the cursor showing and locking to show when paused, hidden when unpaused
+	*In crossHair.cs line 37, shopKeeper tag changed to ShopKeeper (capital S)
+	*enemyShipScript.cs line 33, tag changed to "Playership" from "playership"
+	*playerShipScript.cs line 30,31.....changed to sinkShip from driveShip & crashTheShip from sinkShip
+	
+
+4/22/2013 - John Ying
+
+-modified cannonballScript.cs to destroy on collision to land (just in case, so it doesn't go through hills)
+-moved the mass of land away from the pirate ship so collisions do not make it fly
+-changed enemyAI.knockback.cs line 66  so enemy is pushed back in character direction (instead of the animal's backward direction)
+-changed enemyAI.knockback.cs line 50 comment as a reminder to code player damage with the UI elements
+-in addition to knocking the enemy on charging the player, player now gets knocked back
+
+
+4/16/2013 - John Ying
+
+John Ying added
+-Some useable land
+-Placeholder npc land AI
+-Increased and updated sword swing
+-Updated ship camera to rotate 90 degrees in both directions
+-Commented out unused Debug.Log's to cleanup the log window
+-Added a rigidbody to the player character

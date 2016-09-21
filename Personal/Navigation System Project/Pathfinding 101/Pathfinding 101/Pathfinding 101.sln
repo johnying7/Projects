@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{520758B0-FABA-19CC-2CA8-625C94ED223D}") = "Pathfinding 101", "Assembly-CSharp-firstpass.csproj", "{59BE8A6B-CC7D-BFA3-FC04-5597D00B1B84}"
+EndProject
+Project("{520758B0-FABA-19CC-2CA8-625C94ED223D}") = "Pathfinding 101", "Assembly-CSharp.csproj", "{2F853040-CD70-05F8-5FEC-74EC61A0EA70}"
+EndProject
+Project("{520758B0-FABA-19CC-2CA8-625C94ED223D}") = "Pathfinding 101", "Assembly-CSharp-Editor.csproj", "{53EDE22B-C2AA-0D75-2371-982E9DFA0B98}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{59BE8A6B-CC7D-BFA3-FC04-5597D00B1B84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59BE8A6B-CC7D-BFA3-FC04-5597D00B1B84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59BE8A6B-CC7D-BFA3-FC04-5597D00B1B84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59BE8A6B-CC7D-BFA3-FC04-5597D00B1B84}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F853040-CD70-05F8-5FEC-74EC61A0EA70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F853040-CD70-05F8-5FEC-74EC61A0EA70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F853040-CD70-05F8-5FEC-74EC61A0EA70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F853040-CD70-05F8-5FEC-74EC61A0EA70}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53EDE22B-C2AA-0D75-2371-982E9DFA0B98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53EDE22B-C2AA-0D75-2371-982E9DFA0B98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53EDE22B-C2AA-0D75-2371-982E9DFA0B98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53EDE22B-C2AA-0D75-2371-982E9DFA0B98}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

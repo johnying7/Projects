@@ -1,0 +1,2604 @@
+fileFormatVersion: 2
+guid: de65dc8ab6804404092d6628b496a39e
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: arm_armor_mesh
+    100002: ArmControlL
+    100004: ArmControlR
+    100006: boots_mesh
+    100008: Character1_Left_Arm
+    100010: Character1_Left_Shoulder
+    100012: Character1_LeftForeArm
+    100014: Character1_LeftHand
+    100016: Character1_RightHandIndex1
+    100018: Character1_RightHandIndex2
+    100020: Character1_RightHandIndex3
+    100022: Character1_RightHandMiddle1
+    100024: Character1_RightHandMiddle2
+    100026: Character1_RightHandMiddle3
+    100028: Character1_RightHandPinky1
+    100030: Character1_RightHandPinky2
+    100032: Character1_RightHandPinky3
+    100034: Character1_RightHandRing1
+    100036: Character1_RightHandRing2
+    100038: Character1_RightHandRing3
+    100040: Character1_RightHandThumb1
+    100042: Character1_RightHandThumb2
+    100044: Character1_RightHandThumb3
+    100046: Character_Mesh_Group
+    100048: ControlObjects
+    100050: Ctrl_Scale
+    100052: curve1
+    100054: game_dude_rig:Character1_Head
+    100056: game_dude_rig:Character1_Hips
+    100058: game_dude_rig:Character1_LeftFoot
+    100060: game_dude_rig:Character1_LeftLeg
+    100062: game_dude_rig:Character1_LeftToeBase
+    100064: game_dude_rig:Character1_LeftUpLeg
+    100066: game_dude_rig:Character1_Neck
+    100068: game_dude_rig:Character1_Reference
+    100070: game_dude_rig:Character1_RightArm
+    100072: game_dude_rig:Character1_RightFoot
+    100074: game_dude_rig:Character1_RightForeArm
+    100076: game_dude_rig:Character1_RightHand
+    100078: game_dude_rig:Character1_RightHandIndex1
+    100080: game_dude_rig:Character1_RightHandIndex2
+    100082: game_dude_rig:Character1_RightHandIndex3
+    100084: game_dude_rig:Character1_RightHandMiddle1
+    100086: game_dude_rig:Character1_RightHandMiddle2
+    100088: game_dude_rig:Character1_RightHandMiddle3
+    100090: game_dude_rig:Character1_RightHandPinky1
+    100092: game_dude_rig:Character1_RightHandPinky2
+    100094: game_dude_rig:Character1_RightHandPinky3
+    100096: game_dude_rig:Character1_RightHandRing1
+    100098: game_dude_rig:Character1_RightHandRing2
+    100100: game_dude_rig:Character1_RightHandRing3
+    100102: game_dude_rig:Character1_RightHandThumb1
+    100104: game_dude_rig:Character1_RightHandThumb2
+    100106: game_dude_rig:Character1_RightHandThumb3
+    100108: game_dude_rig:Character1_RightLeg
+    100110: game_dude_rig:Character1_RightShoulder
+    100112: game_dude_rig:Character1_RightToeBase
+    100114: game_dude_rig:Character1_RightUpLeg
+    100116: game_dude_rig:Character1_Spine
+    100118: game_dude_rig:Character1_Spine1
+    100120: //RootNode
+    100122: hair_mesh
+    100124: HandControlL
+    100126: HandControlR
+    100128: harness_mesh
+    100130: head_mesh
+    100132: headControl
+    100134: helperArrow1
+    100136: helperArrow2
+    100138: helperArrow3
+    100140: helperArrow4
+    100142: helperArrowsGRP
+    100144: HipControl
+    100146: ikHandle5
+    100148: ikHandle6
+    100150: knee_armor_mesh
+    100152: KneeDirectionL
+    100154: KneeDirectionR
+    100156: L_arm_mesh
+    100158: L_eye_mesh
+    100160: L_leg_mesh
+    100162: LArmCtrls
+    100164: LegControlL
+    100166: LegControlR
+    100168: LHandControls
+    100170: LocControl
+    100172: LowerArmControlL
+    100174: LowerArmControlR
+    100176: pCube1
+    100178: R_arm_mesh
+    100180: R_eye_mesh
+    100182: R_leg_mesh
+    100184: RArmCtrls
+    100186: RHandControls
+    100188: shoulder_armor_mesh
+    100190: ShoulderL
+    100192: ShoulderR
+    100194: torso_mesh
+    100196: TorsoControl
+    100198: tunic_mesh
+    100200: locator1
+    100202: Head
+    100204: IK_L_Foot
+    100206: IK_R_Foot
+    100208: L_Hand
+    100210: L_Lwr_Arm
+    100212: L_Shoulder
+    100214: L_Upr_Arm
+    100216: L_Upr_Leg
+    100218: Lwr_Torso
+    100220: Lwr_Waist
+    100222: MeshGroup
+    100224: R_Hand
+    100226: R_Lwr_Arm
+    100228: R_Shoulder
+    100230: R_Upr_Arm
+    100232: R_Upr_Leg
+    100234: Rigging
+    100236: Skeleton
+    100238: Upr_Torso
+    400000: arm_armor_mesh
+    400002: ArmControlL
+    400004: ArmControlR
+    400006: boots_mesh
+    400008: Character1_Left_Arm
+    400010: Character1_Left_Shoulder
+    400012: Character1_LeftForeArm
+    400014: Character1_LeftHand
+    400016: Character1_RightHandIndex1
+    400018: Character1_RightHandIndex2
+    400020: Character1_RightHandIndex3
+    400022: Character1_RightHandMiddle1
+    400024: Character1_RightHandMiddle2
+    400026: Character1_RightHandMiddle3
+    400028: Character1_RightHandPinky1
+    400030: Character1_RightHandPinky2
+    400032: Character1_RightHandPinky3
+    400034: Character1_RightHandRing1
+    400036: Character1_RightHandRing2
+    400038: Character1_RightHandRing3
+    400040: Character1_RightHandThumb1
+    400042: Character1_RightHandThumb2
+    400044: Character1_RightHandThumb3
+    400046: Character_Mesh_Group
+    400048: ControlObjects
+    400050: Ctrl_Scale
+    400052: curve1
+    400054: game_dude_rig:Character1_Head
+    400056: game_dude_rig:Character1_Hips
+    400058: game_dude_rig:Character1_LeftFoot
+    400060: game_dude_rig:Character1_LeftLeg
+    400062: game_dude_rig:Character1_LeftToeBase
+    400064: game_dude_rig:Character1_LeftUpLeg
+    400066: game_dude_rig:Character1_Neck
+    400068: game_dude_rig:Character1_Reference
+    400070: game_dude_rig:Character1_RightArm
+    400072: game_dude_rig:Character1_RightFoot
+    400074: game_dude_rig:Character1_RightForeArm
+    400076: game_dude_rig:Character1_RightHand
+    400078: game_dude_rig:Character1_RightHandIndex1
+    400080: game_dude_rig:Character1_RightHandIndex2
+    400082: game_dude_rig:Character1_RightHandIndex3
+    400084: game_dude_rig:Character1_RightHandMiddle1
+    400086: game_dude_rig:Character1_RightHandMiddle2
+    400088: game_dude_rig:Character1_RightHandMiddle3
+    400090: game_dude_rig:Character1_RightHandPinky1
+    400092: game_dude_rig:Character1_RightHandPinky2
+    400094: game_dude_rig:Character1_RightHandPinky3
+    400096: game_dude_rig:Character1_RightHandRing1
+    400098: game_dude_rig:Character1_RightHandRing2
+    400100: game_dude_rig:Character1_RightHandRing3
+    400102: game_dude_rig:Character1_RightHandThumb1
+    400104: game_dude_rig:Character1_RightHandThumb2
+    400106: game_dude_rig:Character1_RightHandThumb3
+    400108: game_dude_rig:Character1_RightLeg
+    400110: game_dude_rig:Character1_RightShoulder
+    400112: game_dude_rig:Character1_RightToeBase
+    400114: game_dude_rig:Character1_RightUpLeg
+    400116: game_dude_rig:Character1_Spine
+    400118: game_dude_rig:Character1_Spine1
+    400120: //RootNode
+    400122: hair_mesh
+    400124: HandControlL
+    400126: HandControlR
+    400128: harness_mesh
+    400130: head_mesh
+    400132: headControl
+    400134: helperArrow1
+    400136: helperArrow2
+    400138: helperArrow3
+    400140: helperArrow4
+    400142: helperArrowsGRP
+    400144: HipControl
+    400146: ikHandle5
+    400148: ikHandle6
+    400150: knee_armor_mesh
+    400152: KneeDirectionL
+    400154: KneeDirectionR
+    400156: L_arm_mesh
+    400158: L_eye_mesh
+    400160: L_leg_mesh
+    400162: LArmCtrls
+    400164: LegControlL
+    400166: LegControlR
+    400168: LHandControls
+    400170: LocControl
+    400172: LowerArmControlL
+    400174: LowerArmControlR
+    400176: pCube1
+    400178: R_arm_mesh
+    400180: R_eye_mesh
+    400182: R_leg_mesh
+    400184: RArmCtrls
+    400186: RHandControls
+    400188: shoulder_armor_mesh
+    400190: ShoulderL
+    400192: ShoulderR
+    400194: torso_mesh
+    400196: TorsoControl
+    400198: tunic_mesh
+    400200: locator1
+    400202: Head
+    400204: IK_L_Foot
+    400206: IK_R_Foot
+    400208: L_Hand
+    400210: L_Lwr_Arm
+    400212: L_Shoulder
+    400214: L_Upr_Arm
+    400216: L_Upr_Leg
+    400218: Lwr_Torso
+    400220: Lwr_Waist
+    400222: MeshGroup
+    400224: R_Hand
+    400226: R_Lwr_Arm
+    400228: R_Shoulder
+    400230: R_Upr_Arm
+    400232: R_Upr_Leg
+    400234: Rigging
+    400236: Skeleton
+    400238: Upr_Torso
+    2300000: pCube1
+    3300000: pCube1
+    4300000: head_mesh
+    4300002: harness_mesh
+    4300004: hair_mesh
+    4300006: R_eye_mesh
+    4300008: L_eye_mesh
+    4300010: tunic_mesh
+    4300012: torso_mesh
+    4300014: shoulder_armor_mesh
+    4300016: arm_armor_mesh
+    4300018: knee_armor_mesh
+    4300020: boots_mesh
+    4300022: R_arm_mesh
+    4300024: L_arm_mesh
+    4300026: R_leg_mesh
+    4300028: L_leg_mesh
+    4300030: pCube1
+    7400000: Idle
+    7400002: Walk
+    7400004: Sidestep
+    7400006: SwingCharge
+    7400008: ThrowSwing
+    7400010: SwingHold
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: arm_armor_mesh
+    13700002: boots_mesh
+    13700004: hair_mesh
+    13700006: harness_mesh
+    13700008: head_mesh
+    13700010: knee_armor_mesh
+    13700012: L_arm_mesh
+    13700014: L_eye_mesh
+    13700016: L_leg_mesh
+    13700018: R_arm_mesh
+    13700020: R_eye_mesh
+    13700022: R_leg_mesh
+    13700024: shoulder_armor_mesh
+    13700026: torso_mesh
+    13700028: tunic_mesh
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 3
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths:
+    - Character_Mesh_Group/L_arm_mesh
+    clipAnimations:
+    - serializedVersion: 16
+      name: Idle
+      takeName: Take 001
+      firstFrame: 49
+      lastFrame: 49.0999985
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Character_Mesh_Group
+        weight: 0
+      - path: Character_Mesh_Group/arm_armor_mesh
+        weight: 0
+      - path: Character_Mesh_Group/boots_mesh
+        weight: 0
+      - path: Character_Mesh_Group/hair_mesh
+        weight: 0
+      - path: Character_Mesh_Group/harness_mesh
+        weight: 0
+      - path: Character_Mesh_Group/head_mesh
+        weight: 0
+      - path: Character_Mesh_Group/knee_armor_mesh
+        weight: 0
+      - path: Character_Mesh_Group/L_arm_mesh
+        weight: 0
+      - path: Character_Mesh_Group/L_eye_mesh
+        weight: 0
+      - path: Character_Mesh_Group/L_leg_mesh
+        weight: 0
+      - path: Character_Mesh_Group/R_arm_mesh
+        weight: 0
+      - path: Character_Mesh_Group/R_eye_mesh
+        weight: 0
+      - path: Character_Mesh_Group/R_leg_mesh
+        weight: 0
+      - path: Character_Mesh_Group/shoulder_armor_mesh
+        weight: 0
+      - path: Character_Mesh_Group/torso_mesh
+        weight: 0
+      - path: Character_Mesh_Group/tunic_mesh
+        weight: 0
+      - path: Ctrl_Scale
+        weight: 1
+      - path: Ctrl_Scale/ControlObjects
+        weight: 0
+      - path: Ctrl_Scale/ControlObjects/LocControl
+        weight: 0
+      - path: Ctrl_Scale/ControlObjects/LocControl/helperArrowsGRP
+        weight: 0
+      - path: Ctrl_Scale/ControlObjects/LocControl/helperArrowsGRP/helperArrow1
+        weight: 0
+      - path: Ctrl_Scale/ControlObjects/LocControl/helperArrowsGRP/helperArrow2
+        weight: 0
+      - path: Ctrl_Scale/ControlObjects/LocControl/helperArrowsGRP/helperArrow3
+        weight: 0
+      - path: Ctrl_Scale/ControlObjects/LocControl/helperArrowsGRP/helperArrow4
+        weight: 0
+      - path: Ctrl_Scale/ControlObjects/LocControl/HipControl
+        weight: 0
+      - path: Ctrl_Scale/ControlObjects/LocControl/HipControl/TorsoControl
+        weight: 0
+      - path: Ctrl_Scale/ControlObjects/LocControl/HipControl/TorsoControl/headControl
+        weight: 0
+      - path: Ctrl_Scale/ControlObjects/LocControl/HipControl/TorsoControl/LArmCtrls
+        weight: 0
+      - path: Ctrl_Scale/ControlObjects/LocControl/HipControl/TorsoControl/LArmCtrls/ArmControlL
+        weight: 0
+      - path: Ctrl_Scale/ControlObjects/LocControl/HipControl/TorsoControl/LArmCtrls/ArmControlL/LowerArmControlL
+        weight: 0
+      - path: Ctrl_Scale/ControlObjects/LocControl/HipControl/TorsoControl/LArmCtrls/ArmControlL/LowerArmControlL/HandControlL
+        weight: 0
+      - path: Ctrl_Scale/ControlObjects/LocControl/HipControl/TorsoControl/LHandControls
+        weight: 0
+      - path: Ctrl_Scale/ControlObjects/LocControl/HipControl/TorsoControl/RArmCtrls
+        weight: 0
+      - path: Ctrl_Scale/ControlObjects/LocControl/HipControl/TorsoControl/RArmCtrls/ArmControlR
+        weight: 0
+      - path: Ctrl_Scale/ControlObjects/LocControl/HipControl/TorsoControl/RArmCtrls/ArmControlR/LowerArmControlR
+        weight: 0
+      - path: Ctrl_Scale/ControlObjects/LocControl/HipControl/TorsoControl/RArmCtrls/ArmControlR/LowerArmControlR/HandControlR
+        weight: 0
+      - path: Ctrl_Scale/ControlObjects/LocControl/HipControl/TorsoControl/RHandControls
+        weight: 0
+      - path: Ctrl_Scale/ControlObjects/LocControl/HipControl/TorsoControl/ShoulderL
+        weight: 0
+      - path: Ctrl_Scale/ControlObjects/LocControl/HipControl/TorsoControl/ShoulderR
+        weight: 0
+      - path: Ctrl_Scale/ControlObjects/LocControl/KneeDirectionL
+        weight: 0
+      - path: Ctrl_Scale/ControlObjects/LocControl/KneeDirectionR
+        weight: 0
+      - path: Ctrl_Scale/ControlObjects/LocControl/LegControlL
+        weight: 0
+      - path: Ctrl_Scale/ControlObjects/LocControl/LegControlR
+        weight: 0
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/curve1
+        weight: 0
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_LeftUpLeg
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_LeftUpLeg/game_dude_rig:Character1_LeftLeg
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_LeftUpLeg/game_dude_rig:Character1_LeftLeg/game_dude_rig:Character1_LeftFoot
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_LeftUpLeg/game_dude_rig:Character1_LeftLeg/game_dude_rig:Character1_LeftFoot/game_dude_rig:Character1_LeftToeBase
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_RightUpLeg
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_RightUpLeg/game_dude_rig:Character1_RightLeg
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_RightUpLeg/game_dude_rig:Character1_RightLeg/game_dude_rig:Character1_RightFoot
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_RightUpLeg/game_dude_rig:Character1_RightLeg/game_dude_rig:Character1_RightFoot/game_dude_rig:Character1_RightToeBase
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/Character1_Left_Shoulder
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/Character1_Left_Shoulder/Character1_Left_Arm
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/Character1_Left_Shoulder/Character1_Left_Arm/Character1_LeftForeArm
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/Character1_Left_Shoulder/Character1_Left_Arm/Character1_LeftForeArm/Character1_LeftHand
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/Character1_Left_Shoulder/Character1_Left_Arm/Character1_LeftForeArm/Character1_LeftHand/Character1_RightHandIndex1
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/Character1_Left_Shoulder/Character1_Left_Arm/Character1_LeftForeArm/Character1_LeftHand/Character1_RightHandIndex1/Character1_RightHandIndex2
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/Character1_Left_Shoulder/Character1_Left_Arm/Character1_LeftForeArm/Character1_LeftHand/Character1_RightHandIndex1/Character1_RightHandIndex2/Character1_RightHandIndex3
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/Character1_Left_Shoulder/Character1_Left_Arm/Character1_LeftForeArm/Character1_LeftHand/Character1_RightHandMiddle1
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/Character1_Left_Shoulder/Character1_Left_Arm/Character1_LeftForeArm/Character1_LeftHand/Character1_RightHandMiddle1/Character1_RightHandMiddle2
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/Character1_Left_Shoulder/Character1_Left_Arm/Character1_LeftForeArm/Character1_LeftHand/Character1_RightHandMiddle1/Character1_RightHandMiddle2/Character1_RightHandMiddle3
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/Character1_Left_Shoulder/Character1_Left_Arm/Character1_LeftForeArm/Character1_LeftHand/Character1_RightHandPinky1
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/Character1_Left_Shoulder/Character1_Left_Arm/Character1_LeftForeArm/Character1_LeftHand/Character1_RightHandPinky1/Character1_RightHandPinky2
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/Character1_Left_Shoulder/Character1_Left_Arm/Character1_LeftForeArm/Character1_LeftHand/Character1_RightHandPinky1/Character1_RightHandPinky2/Character1_RightHandPinky3
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/Character1_Left_Shoulder/Character1_Left_Arm/Character1_LeftForeArm/Character1_LeftHand/Character1_RightHandRing1
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/Character1_Left_Shoulder/Character1_Left_Arm/Character1_LeftForeArm/Character1_LeftHand/Character1_RightHandRing1/Character1_RightHandRing2
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/Character1_Left_Shoulder/Character1_Left_Arm/Character1_LeftForeArm/Character1_LeftHand/Character1_RightHandRing1/Character1_RightHandRing2/Character1_RightHandRing3
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/Character1_Left_Shoulder/Character1_Left_Arm/Character1_LeftForeArm/Character1_LeftHand/Character1_RightHandThumb1
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/Character1_Left_Shoulder/Character1_Left_Arm/Character1_LeftForeArm/Character1_LeftHand/Character1_RightHandThumb1/Character1_RightHandThumb2
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/Character1_Left_Shoulder/Character1_Left_Arm/Character1_LeftForeArm/Character1_LeftHand/Character1_RightHandThumb1/Character1_RightHandThumb2/Character1_RightHandThumb3
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/game_dude_rig:Character1_Neck
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/game_dude_rig:Character1_Neck/game_dude_rig:Character1_Head
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/game_dude_rig:Character1_RightShoulder
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/game_dude_rig:Character1_RightShoulder/game_dude_rig:Character1_RightArm
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/game_dude_rig:Character1_RightShoulder/game_dude_rig:Character1_RightArm/game_dude_rig:Character1_RightForeArm
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/game_dude_rig:Character1_RightShoulder/game_dude_rig:Character1_RightArm/game_dude_rig:Character1_RightForeArm/game_dude_rig:Character1_RightHand
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/game_dude_rig:Character1_RightShoulder/game_dude_rig:Character1_RightArm/game_dude_rig:Character1_RightForeArm/game_dude_rig:Character1_RightHand/game_dude_rig:Character1_RightHandIndex1
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/game_dude_rig:Character1_RightShoulder/game_dude_rig:Character1_RightArm/game_dude_rig:Character1_RightForeArm/game_dude_rig:Character1_RightHand/game_dude_rig:Character1_RightHandIndex1/game_dude_rig:Character1_RightHandIndex2
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/game_dude_rig:Character1_RightShoulder/game_dude_rig:Character1_RightArm/game_dude_rig:Character1_RightForeArm/game_dude_rig:Character1_RightHand/game_dude_rig:Character1_RightHandIndex1/game_dude_rig:Character1_RightHandIndex2/game_dude_rig:Character1_RightHandIndex3
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/game_dude_rig:Character1_RightShoulder/game_dude_rig:Character1_RightArm/game_dude_rig:Character1_RightForeArm/game_dude_rig:Character1_RightHand/game_dude_rig:Character1_RightHandMiddle1
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/game_dude_rig:Character1_RightShoulder/game_dude_rig:Character1_RightArm/game_dude_rig:Character1_RightForeArm/game_dude_rig:Character1_RightHand/game_dude_rig:Character1_RightHandMiddle1/game_dude_rig:Character1_RightHandMiddle2
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/game_dude_rig:Character1_RightShoulder/game_dude_rig:Character1_RightArm/game_dude_rig:Character1_RightForeArm/game_dude_rig:Character1_RightHand/game_dude_rig:Character1_RightHandMiddle1/game_dude_rig:Character1_RightHandMiddle2/game_dude_rig:Character1_RightHandMiddle3
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/game_dude_rig:Character1_RightShoulder/game_dude_rig:Character1_RightArm/game_dude_rig:Character1_RightForeArm/game_dude_rig:Character1_RightHand/game_dude_rig:Character1_RightHandPinky1
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/game_dude_rig:Character1_RightShoulder/game_dude_rig:Character1_RightArm/game_dude_rig:Character1_RightForeArm/game_dude_rig:Character1_RightHand/game_dude_rig:Character1_RightHandPinky1/game_dude_rig:Character1_RightHandPinky2
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/game_dude_rig:Character1_RightShoulder/game_dude_rig:Character1_RightArm/game_dude_rig:Character1_RightForeArm/game_dude_rig:Character1_RightHand/game_dude_rig:Character1_RightHandPinky1/game_dude_rig:Character1_RightHandPinky2/game_dude_rig:Character1_RightHandPinky3
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/game_dude_rig:Character1_RightShoulder/game_dude_rig:Character1_RightArm/game_dude_rig:Character1_RightForeArm/game_dude_rig:Character1_RightHand/game_dude_rig:Character1_RightHandRing1
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/game_dude_rig:Character1_RightShoulder/game_dude_rig:Character1_RightArm/game_dude_rig:Character1_RightForeArm/game_dude_rig:Character1_RightHand/game_dude_rig:Character1_RightHandRing1/game_dude_rig:Character1_RightHandRing2
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/game_dude_rig:Character1_RightShoulder/game_dude_rig:Character1_RightArm/game_dude_rig:Character1_RightForeArm/game_dude_rig:Character1_RightHand/game_dude_rig:Character1_RightHandRing1/game_dude_rig:Character1_RightHandRing2/game_dude_rig:Character1_RightHandRing3
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/game_dude_rig:Character1_RightShoulder/game_dude_rig:Character1_RightArm/game_dude_rig:Character1_RightForeArm/game_dude_rig:Character1_RightHand/game_dude_rig:Character1_RightHandThumb1
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/game_dude_rig:Character1_RightShoulder/game_dude_rig:Character1_RightArm/game_dude_rig:Character1_RightForeArm/game_dude_rig:Character1_RightHand/game_dude_rig:Character1_RightHandThumb1/game_dude_rig:Character1_RightHandThumb2
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/game_dude_rig:Character1_RightShoulder/game_dude_rig:Character1_RightArm/game_dude_rig:Character1_RightForeArm/game_dude_rig:Character1_RightHand/game_dude_rig:Character1_RightHandThumb1/game_dude_rig:Character1_RightHandThumb2/game_dude_rig:Character1_RightHandThumb3
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/ikHandle5
+        weight: 0
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/ikHandle6
+        weight: 0
+      - path: pCube1
+        weight: 0
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Walk
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 24
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Character_Mesh_Group
+        weight: 0
+      - path: Character_Mesh_Group/arm_armor_mesh
+        weight: 0
+      - path: Character_Mesh_Group/boots_mesh
+        weight: 0
+      - path: Character_Mesh_Group/hair_mesh
+        weight: 0
+      - path: Character_Mesh_Group/harness_mesh
+        weight: 0
+      - path: Character_Mesh_Group/head_mesh
+        weight: 0
+      - path: Character_Mesh_Group/knee_armor_mesh
+        weight: 0
+      - path: Character_Mesh_Group/L_arm_mesh
+        weight: 0
+      - path: Character_Mesh_Group/L_eye_mesh
+        weight: 0
+      - path: Character_Mesh_Group/L_leg_mesh
+        weight: 0
+      - path: Character_Mesh_Group/R_arm_mesh
+        weight: 0
+      - path: Character_Mesh_Group/R_eye_mesh
+        weight: 0
+      - path: Character_Mesh_Group/R_leg_mesh
+        weight: 0
+      - path: Character_Mesh_Group/shoulder_armor_mesh
+        weight: 0
+      - path: Character_Mesh_Group/torso_mesh
+        weight: 0
+      - path: Character_Mesh_Group/tunic_mesh
+        weight: 0
+      - path: Ctrl_Scale
+        weight: 1
+      - path: Ctrl_Scale/ControlObjects
+        weight: 0
+      - path: Ctrl_Scale/ControlObjects/LocControl
+        weight: 0
+      - path: Ctrl_Scale/ControlObjects/LocControl/helperArrowsGRP
+        weight: 0
+      - path: Ctrl_Scale/ControlObjects/LocControl/helperArrowsGRP/helperArrow1
+        weight: 0
+      - path: Ctrl_Scale/ControlObjects/LocControl/helperArrowsGRP/helperArrow2
+        weight: 0
+      - path: Ctrl_Scale/ControlObjects/LocControl/helperArrowsGRP/helperArrow3
+        weight: 0
+      - path: Ctrl_Scale/ControlObjects/LocControl/helperArrowsGRP/helperArrow4
+        weight: 0
+      - path: Ctrl_Scale/ControlObjects/LocControl/HipControl
+        weight: 0
+      - path: Ctrl_Scale/ControlObjects/LocControl/HipControl/TorsoControl
+        weight: 0
+      - path: Ctrl_Scale/ControlObjects/LocControl/HipControl/TorsoControl/headControl
+        weight: 0
+      - path: Ctrl_Scale/ControlObjects/LocControl/HipControl/TorsoControl/LArmCtrls
+        weight: 0
+      - path: Ctrl_Scale/ControlObjects/LocControl/HipControl/TorsoControl/LArmCtrls/ArmControlL
+        weight: 0
+      - path: Ctrl_Scale/ControlObjects/LocControl/HipControl/TorsoControl/LArmCtrls/ArmControlL/LowerArmControlL
+        weight: 0
+      - path: Ctrl_Scale/ControlObjects/LocControl/HipControl/TorsoControl/LArmCtrls/ArmControlL/LowerArmControlL/HandControlL
+        weight: 0
+      - path: Ctrl_Scale/ControlObjects/LocControl/HipControl/TorsoControl/LHandControls
+        weight: 0
+      - path: Ctrl_Scale/ControlObjects/LocControl/HipControl/TorsoControl/RArmCtrls
+        weight: 0
+      - path: Ctrl_Scale/ControlObjects/LocControl/HipControl/TorsoControl/RArmCtrls/ArmControlR
+        weight: 0
+      - path: Ctrl_Scale/ControlObjects/LocControl/HipControl/TorsoControl/RArmCtrls/ArmControlR/LowerArmControlR
+        weight: 0
+      - path: Ctrl_Scale/ControlObjects/LocControl/HipControl/TorsoControl/RArmCtrls/ArmControlR/LowerArmControlR/HandControlR
+        weight: 0
+      - path: Ctrl_Scale/ControlObjects/LocControl/HipControl/TorsoControl/RHandControls
+        weight: 0
+      - path: Ctrl_Scale/ControlObjects/LocControl/HipControl/TorsoControl/ShoulderL
+        weight: 0
+      - path: Ctrl_Scale/ControlObjects/LocControl/HipControl/TorsoControl/ShoulderR
+        weight: 0
+      - path: Ctrl_Scale/ControlObjects/LocControl/KneeDirectionL
+        weight: 0
+      - path: Ctrl_Scale/ControlObjects/LocControl/KneeDirectionR
+        weight: 0
+      - path: Ctrl_Scale/ControlObjects/LocControl/LegControlL
+        weight: 0
+      - path: Ctrl_Scale/ControlObjects/LocControl/LegControlR
+        weight: 0
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/curve1
+        weight: 0
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_LeftUpLeg
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_LeftUpLeg/game_dude_rig:Character1_LeftLeg
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_LeftUpLeg/game_dude_rig:Character1_LeftLeg/game_dude_rig:Character1_LeftFoot
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_LeftUpLeg/game_dude_rig:Character1_LeftLeg/game_dude_rig:Character1_LeftFoot/game_dude_rig:Character1_LeftToeBase
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_RightUpLeg
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_RightUpLeg/game_dude_rig:Character1_RightLeg
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_RightUpLeg/game_dude_rig:Character1_RightLeg/game_dude_rig:Character1_RightFoot
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_RightUpLeg/game_dude_rig:Character1_RightLeg/game_dude_rig:Character1_RightFoot/game_dude_rig:Character1_RightToeBase
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/Character1_Left_Shoulder
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/Character1_Left_Shoulder/Character1_Left_Arm
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/Character1_Left_Shoulder/Character1_Left_Arm/Character1_LeftForeArm
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/Character1_Left_Shoulder/Character1_Left_Arm/Character1_LeftForeArm/Character1_LeftHand
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/Character1_Left_Shoulder/Character1_Left_Arm/Character1_LeftForeArm/Character1_LeftHand/Character1_RightHandIndex1
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/Character1_Left_Shoulder/Character1_Left_Arm/Character1_LeftForeArm/Character1_LeftHand/Character1_RightHandIndex1/Character1_RightHandIndex2
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/Character1_Left_Shoulder/Character1_Left_Arm/Character1_LeftForeArm/Character1_LeftHand/Character1_RightHandIndex1/Character1_RightHandIndex2/Character1_RightHandIndex3
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/Character1_Left_Shoulder/Character1_Left_Arm/Character1_LeftForeArm/Character1_LeftHand/Character1_RightHandMiddle1
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/Character1_Left_Shoulder/Character1_Left_Arm/Character1_LeftForeArm/Character1_LeftHand/Character1_RightHandMiddle1/Character1_RightHandMiddle2
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/Character1_Left_Shoulder/Character1_Left_Arm/Character1_LeftForeArm/Character1_LeftHand/Character1_RightHandMiddle1/Character1_RightHandMiddle2/Character1_RightHandMiddle3
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/Character1_Left_Shoulder/Character1_Left_Arm/Character1_LeftForeArm/Character1_LeftHand/Character1_RightHandPinky1
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/Character1_Left_Shoulder/Character1_Left_Arm/Character1_LeftForeArm/Character1_LeftHand/Character1_RightHandPinky1/Character1_RightHandPinky2
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/Character1_Left_Shoulder/Character1_Left_Arm/Character1_LeftForeArm/Character1_LeftHand/Character1_RightHandPinky1/Character1_RightHandPinky2/Character1_RightHandPinky3
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/Character1_Left_Shoulder/Character1_Left_Arm/Character1_LeftForeArm/Character1_LeftHand/Character1_RightHandRing1
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/Character1_Left_Shoulder/Character1_Left_Arm/Character1_LeftForeArm/Character1_LeftHand/Character1_RightHandRing1/Character1_RightHandRing2
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/Character1_Left_Shoulder/Character1_Left_Arm/Character1_LeftForeArm/Character1_LeftHand/Character1_RightHandRing1/Character1_RightHandRing2/Character1_RightHandRing3
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/Character1_Left_Shoulder/Character1_Left_Arm/Character1_LeftForeArm/Character1_LeftHand/Character1_RightHandThumb1
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/Character1_Left_Shoulder/Character1_Left_Arm/Character1_LeftForeArm/Character1_LeftHand/Character1_RightHandThumb1/Character1_RightHandThumb2
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/Character1_Left_Shoulder/Character1_Left_Arm/Character1_LeftForeArm/Character1_LeftHand/Character1_RightHandThumb1/Character1_RightHandThumb2/Character1_RightHandThumb3
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/game_dude_rig:Character1_Neck
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/game_dude_rig:Character1_Neck/game_dude_rig:Character1_Head
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/game_dude_rig:Character1_RightShoulder
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/game_dude_rig:Character1_RightShoulder/game_dude_rig:Character1_RightArm
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/game_dude_rig:Character1_RightShoulder/game_dude_rig:Character1_RightArm/game_dude_rig:Character1_RightForeArm
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/game_dude_rig:Character1_RightShoulder/game_dude_rig:Character1_RightArm/game_dude_rig:Character1_RightForeArm/game_dude_rig:Character1_RightHand
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/game_dude_rig:Character1_RightShoulder/game_dude_rig:Character1_RightArm/game_dude_rig:Character1_RightForeArm/game_dude_rig:Character1_RightHand/game_dude_rig:Character1_RightHandIndex1
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/game_dude_rig:Character1_RightShoulder/game_dude_rig:Character1_RightArm/game_dude_rig:Character1_RightForeArm/game_dude_rig:Character1_RightHand/game_dude_rig:Character1_RightHandIndex1/game_dude_rig:Character1_RightHandIndex2
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/game_dude_rig:Character1_RightShoulder/game_dude_rig:Character1_RightArm/game_dude_rig:Character1_RightForeArm/game_dude_rig:Character1_RightHand/game_dude_rig:Character1_RightHandIndex1/game_dude_rig:Character1_RightHandIndex2/game_dude_rig:Character1_RightHandIndex3
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/game_dude_rig:Character1_RightShoulder/game_dude_rig:Character1_RightArm/game_dude_rig:Character1_RightForeArm/game_dude_rig:Character1_RightHand/game_dude_rig:Character1_RightHandMiddle1
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/game_dude_rig:Character1_RightShoulder/game_dude_rig:Character1_RightArm/game_dude_rig:Character1_RightForeArm/game_dude_rig:Character1_RightHand/game_dude_rig:Character1_RightHandMiddle1/game_dude_rig:Character1_RightHandMiddle2
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/game_dude_rig:Character1_RightShoulder/game_dude_rig:Character1_RightArm/game_dude_rig:Character1_RightForeArm/game_dude_rig:Character1_RightHand/game_dude_rig:Character1_RightHandMiddle1/game_dude_rig:Character1_RightHandMiddle2/game_dude_rig:Character1_RightHandMiddle3
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/game_dude_rig:Character1_RightShoulder/game_dude_rig:Character1_RightArm/game_dude_rig:Character1_RightForeArm/game_dude_rig:Character1_RightHand/game_dude_rig:Character1_RightHandPinky1
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/game_dude_rig:Character1_RightShoulder/game_dude_rig:Character1_RightArm/game_dude_rig:Character1_RightForeArm/game_dude_rig:Character1_RightHand/game_dude_rig:Character1_RightHandPinky1/game_dude_rig:Character1_RightHandPinky2
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/game_dude_rig:Character1_RightShoulder/game_dude_rig:Character1_RightArm/game_dude_rig:Character1_RightForeArm/game_dude_rig:Character1_RightHand/game_dude_rig:Character1_RightHandPinky1/game_dude_rig:Character1_RightHandPinky2/game_dude_rig:Character1_RightHandPinky3
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/game_dude_rig:Character1_RightShoulder/game_dude_rig:Character1_RightArm/game_dude_rig:Character1_RightForeArm/game_dude_rig:Character1_RightHand/game_dude_rig:Character1_RightHandRing1
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/game_dude_rig:Character1_RightShoulder/game_dude_rig:Character1_RightArm/game_dude_rig:Character1_RightForeArm/game_dude_rig:Character1_RightHand/game_dude_rig:Character1_RightHandRing1/game_dude_rig:Character1_RightHandRing2
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/game_dude_rig:Character1_RightShoulder/game_dude_rig:Character1_RightArm/game_dude_rig:Character1_RightForeArm/game_dude_rig:Character1_RightHand/game_dude_rig:Character1_RightHandRing1/game_dude_rig:Character1_RightHandRing2/game_dude_rig:Character1_RightHandRing3
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/game_dude_rig:Character1_RightShoulder/game_dude_rig:Character1_RightArm/game_dude_rig:Character1_RightForeArm/game_dude_rig:Character1_RightHand/game_dude_rig:Character1_RightHandThumb1
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/game_dude_rig:Character1_RightShoulder/game_dude_rig:Character1_RightArm/game_dude_rig:Character1_RightForeArm/game_dude_rig:Character1_RightHand/game_dude_rig:Character1_RightHandThumb1/game_dude_rig:Character1_RightHandThumb2
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/game_dude_rig:Character1_RightShoulder/game_dude_rig:Character1_RightArm/game_dude_rig:Character1_RightForeArm/game_dude_rig:Character1_RightHand/game_dude_rig:Character1_RightHandThumb1/game_dude_rig:Character1_RightHandThumb2/game_dude_rig:Character1_RightHandThumb3
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/ikHandle5
+        weight: 0
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/ikHandle6
+        weight: 0
+      - path: pCube1
+        weight: 0
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Sidestep
+      takeName: Take 001
+      firstFrame: 25
+      lastFrame: 48
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Character_Mesh_Group
+        weight: 0
+      - path: Character_Mesh_Group/arm_armor_mesh
+        weight: 0
+      - path: Character_Mesh_Group/boots_mesh
+        weight: 0
+      - path: Character_Mesh_Group/hair_mesh
+        weight: 0
+      - path: Character_Mesh_Group/harness_mesh
+        weight: 0
+      - path: Character_Mesh_Group/head_mesh
+        weight: 0
+      - path: Character_Mesh_Group/knee_armor_mesh
+        weight: 0
+      - path: Character_Mesh_Group/L_arm_mesh
+        weight: 0
+      - path: Character_Mesh_Group/L_eye_mesh
+        weight: 0
+      - path: Character_Mesh_Group/L_leg_mesh
+        weight: 0
+      - path: Character_Mesh_Group/R_arm_mesh
+        weight: 0
+      - path: Character_Mesh_Group/R_eye_mesh
+        weight: 0
+      - path: Character_Mesh_Group/R_leg_mesh
+        weight: 0
+      - path: Character_Mesh_Group/shoulder_armor_mesh
+        weight: 0
+      - path: Character_Mesh_Group/torso_mesh
+        weight: 0
+      - path: Character_Mesh_Group/tunic_mesh
+        weight: 0
+      - path: Ctrl_Scale
+        weight: 1
+      - path: Ctrl_Scale/ControlObjects
+        weight: 0
+      - path: Ctrl_Scale/ControlObjects/LocControl
+        weight: 0
+      - path: Ctrl_Scale/ControlObjects/LocControl/helperArrowsGRP
+        weight: 0
+      - path: Ctrl_Scale/ControlObjects/LocControl/helperArrowsGRP/helperArrow1
+        weight: 0
+      - path: Ctrl_Scale/ControlObjects/LocControl/helperArrowsGRP/helperArrow2
+        weight: 0
+      - path: Ctrl_Scale/ControlObjects/LocControl/helperArrowsGRP/helperArrow3
+        weight: 0
+      - path: Ctrl_Scale/ControlObjects/LocControl/helperArrowsGRP/helperArrow4
+        weight: 0
+      - path: Ctrl_Scale/ControlObjects/LocControl/HipControl
+        weight: 0
+      - path: Ctrl_Scale/ControlObjects/LocControl/HipControl/TorsoControl
+        weight: 0
+      - path: Ctrl_Scale/ControlObjects/LocControl/HipControl/TorsoControl/headControl
+        weight: 0
+      - path: Ctrl_Scale/ControlObjects/LocControl/HipControl/TorsoControl/LArmCtrls
+        weight: 0
+      - path: Ctrl_Scale/ControlObjects/LocControl/HipControl/TorsoControl/LArmCtrls/ArmControlL
+        weight: 0
+      - path: Ctrl_Scale/ControlObjects/LocControl/HipControl/TorsoControl/LArmCtrls/ArmControlL/LowerArmControlL
+        weight: 0
+      - path: Ctrl_Scale/ControlObjects/LocControl/HipControl/TorsoControl/LArmCtrls/ArmControlL/LowerArmControlL/HandControlL
+        weight: 0
+      - path: Ctrl_Scale/ControlObjects/LocControl/HipControl/TorsoControl/LHandControls
+        weight: 0
+      - path: Ctrl_Scale/ControlObjects/LocControl/HipControl/TorsoControl/RArmCtrls
+        weight: 0
+      - path: Ctrl_Scale/ControlObjects/LocControl/HipControl/TorsoControl/RArmCtrls/ArmControlR
+        weight: 0
+      - path: Ctrl_Scale/ControlObjects/LocControl/HipControl/TorsoControl/RArmCtrls/ArmControlR/LowerArmControlR
+        weight: 0
+      - path: Ctrl_Scale/ControlObjects/LocControl/HipControl/TorsoControl/RArmCtrls/ArmControlR/LowerArmControlR/HandControlR
+        weight: 0
+      - path: Ctrl_Scale/ControlObjects/LocControl/HipControl/TorsoControl/RHandControls
+        weight: 0
+      - path: Ctrl_Scale/ControlObjects/LocControl/HipControl/TorsoControl/ShoulderL
+        weight: 0
+      - path: Ctrl_Scale/ControlObjects/LocControl/HipControl/TorsoControl/ShoulderR
+        weight: 0
+      - path: Ctrl_Scale/ControlObjects/LocControl/KneeDirectionL
+        weight: 0
+      - path: Ctrl_Scale/ControlObjects/LocControl/KneeDirectionR
+        weight: 0
+      - path: Ctrl_Scale/ControlObjects/LocControl/LegControlL
+        weight: 0
+      - path: Ctrl_Scale/ControlObjects/LocControl/LegControlR
+        weight: 0
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/curve1
+        weight: 0
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_LeftUpLeg
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_LeftUpLeg/game_dude_rig:Character1_LeftLeg
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_LeftUpLeg/game_dude_rig:Character1_LeftLeg/game_dude_rig:Character1_LeftFoot
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_LeftUpLeg/game_dude_rig:Character1_LeftLeg/game_dude_rig:Character1_LeftFoot/game_dude_rig:Character1_LeftToeBase
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_RightUpLeg
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_RightUpLeg/game_dude_rig:Character1_RightLeg
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_RightUpLeg/game_dude_rig:Character1_RightLeg/game_dude_rig:Character1_RightFoot
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_RightUpLeg/game_dude_rig:Character1_RightLeg/game_dude_rig:Character1_RightFoot/game_dude_rig:Character1_RightToeBase
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/Character1_Left_Shoulder
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/Character1_Left_Shoulder/Character1_Left_Arm
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/Character1_Left_Shoulder/Character1_Left_Arm/Character1_LeftForeArm
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/Character1_Left_Shoulder/Character1_Left_Arm/Character1_LeftForeArm/Character1_LeftHand
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/Character1_Left_Shoulder/Character1_Left_Arm/Character1_LeftForeArm/Character1_LeftHand/Character1_RightHandIndex1
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/Character1_Left_Shoulder/Character1_Left_Arm/Character1_LeftForeArm/Character1_LeftHand/Character1_RightHandIndex1/Character1_RightHandIndex2
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/Character1_Left_Shoulder/Character1_Left_Arm/Character1_LeftForeArm/Character1_LeftHand/Character1_RightHandIndex1/Character1_RightHandIndex2/Character1_RightHandIndex3
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/Character1_Left_Shoulder/Character1_Left_Arm/Character1_LeftForeArm/Character1_LeftHand/Character1_RightHandMiddle1
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/Character1_Left_Shoulder/Character1_Left_Arm/Character1_LeftForeArm/Character1_LeftHand/Character1_RightHandMiddle1/Character1_RightHandMiddle2
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/Character1_Left_Shoulder/Character1_Left_Arm/Character1_LeftForeArm/Character1_LeftHand/Character1_RightHandMiddle1/Character1_RightHandMiddle2/Character1_RightHandMiddle3
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/Character1_Left_Shoulder/Character1_Left_Arm/Character1_LeftForeArm/Character1_LeftHand/Character1_RightHandPinky1
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/Character1_Left_Shoulder/Character1_Left_Arm/Character1_LeftForeArm/Character1_LeftHand/Character1_RightHandPinky1/Character1_RightHandPinky2
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/Character1_Left_Shoulder/Character1_Left_Arm/Character1_LeftForeArm/Character1_LeftHand/Character1_RightHandPinky1/Character1_RightHandPinky2/Character1_RightHandPinky3
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/Character1_Left_Shoulder/Character1_Left_Arm/Character1_LeftForeArm/Character1_LeftHand/Character1_RightHandRing1
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/Character1_Left_Shoulder/Character1_Left_Arm/Character1_LeftForeArm/Character1_LeftHand/Character1_RightHandRing1/Character1_RightHandRing2
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/Character1_Left_Shoulder/Character1_Left_Arm/Character1_LeftForeArm/Character1_LeftHand/Character1_RightHandRing1/Character1_RightHandRing2/Character1_RightHandRing3
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/Character1_Left_Shoulder/Character1_Left_Arm/Character1_LeftForeArm/Character1_LeftHand/Character1_RightHandThumb1
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/Character1_Left_Shoulder/Character1_Left_Arm/Character1_LeftForeArm/Character1_LeftHand/Character1_RightHandThumb1/Character1_RightHandThumb2
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/Character1_Left_Shoulder/Character1_Left_Arm/Character1_LeftForeArm/Character1_LeftHand/Character1_RightHandThumb1/Character1_RightHandThumb2/Character1_RightHandThumb3
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/game_dude_rig:Character1_Neck
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/game_dude_rig:Character1_Neck/game_dude_rig:Character1_Head
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/game_dude_rig:Character1_RightShoulder
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/game_dude_rig:Character1_RightShoulder/game_dude_rig:Character1_RightArm
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/game_dude_rig:Character1_RightShoulder/game_dude_rig:Character1_RightArm/game_dude_rig:Character1_RightForeArm
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/game_dude_rig:Character1_RightShoulder/game_dude_rig:Character1_RightArm/game_dude_rig:Character1_RightForeArm/game_dude_rig:Character1_RightHand
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/game_dude_rig:Character1_RightShoulder/game_dude_rig:Character1_RightArm/game_dude_rig:Character1_RightForeArm/game_dude_rig:Character1_RightHand/game_dude_rig:Character1_RightHandIndex1
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/game_dude_rig:Character1_RightShoulder/game_dude_rig:Character1_RightArm/game_dude_rig:Character1_RightForeArm/game_dude_rig:Character1_RightHand/game_dude_rig:Character1_RightHandIndex1/game_dude_rig:Character1_RightHandIndex2
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/game_dude_rig:Character1_RightShoulder/game_dude_rig:Character1_RightArm/game_dude_rig:Character1_RightForeArm/game_dude_rig:Character1_RightHand/game_dude_rig:Character1_RightHandIndex1/game_dude_rig:Character1_RightHandIndex2/game_dude_rig:Character1_RightHandIndex3
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/game_dude_rig:Character1_RightShoulder/game_dude_rig:Character1_RightArm/game_dude_rig:Character1_RightForeArm/game_dude_rig:Character1_RightHand/game_dude_rig:Character1_RightHandMiddle1
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/game_dude_rig:Character1_RightShoulder/game_dude_rig:Character1_RightArm/game_dude_rig:Character1_RightForeArm/game_dude_rig:Character1_RightHand/game_dude_rig:Character1_RightHandMiddle1/game_dude_rig:Character1_RightHandMiddle2
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/game_dude_rig:Character1_RightShoulder/game_dude_rig:Character1_RightArm/game_dude_rig:Character1_RightForeArm/game_dude_rig:Character1_RightHand/game_dude_rig:Character1_RightHandMiddle1/game_dude_rig:Character1_RightHandMiddle2/game_dude_rig:Character1_RightHandMiddle3
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/game_dude_rig:Character1_RightShoulder/game_dude_rig:Character1_RightArm/game_dude_rig:Character1_RightForeArm/game_dude_rig:Character1_RightHand/game_dude_rig:Character1_RightHandPinky1
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/game_dude_rig:Character1_RightShoulder/game_dude_rig:Character1_RightArm/game_dude_rig:Character1_RightForeArm/game_dude_rig:Character1_RightHand/game_dude_rig:Character1_RightHandPinky1/game_dude_rig:Character1_RightHandPinky2
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/game_dude_rig:Character1_RightShoulder/game_dude_rig:Character1_RightArm/game_dude_rig:Character1_RightForeArm/game_dude_rig:Character1_RightHand/game_dude_rig:Character1_RightHandPinky1/game_dude_rig:Character1_RightHandPinky2/game_dude_rig:Character1_RightHandPinky3
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/game_dude_rig:Character1_RightShoulder/game_dude_rig:Character1_RightArm/game_dude_rig:Character1_RightForeArm/game_dude_rig:Character1_RightHand/game_dude_rig:Character1_RightHandRing1
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/game_dude_rig:Character1_RightShoulder/game_dude_rig:Character1_RightArm/game_dude_rig:Character1_RightForeArm/game_dude_rig:Character1_RightHand/game_dude_rig:Character1_RightHandRing1/game_dude_rig:Character1_RightHandRing2
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/game_dude_rig:Character1_RightShoulder/game_dude_rig:Character1_RightArm/game_dude_rig:Character1_RightForeArm/game_dude_rig:Character1_RightHand/game_dude_rig:Character1_RightHandRing1/game_dude_rig:Character1_RightHandRing2/game_dude_rig:Character1_RightHandRing3
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/game_dude_rig:Character1_RightShoulder/game_dude_rig:Character1_RightArm/game_dude_rig:Character1_RightForeArm/game_dude_rig:Character1_RightHand/game_dude_rig:Character1_RightHandThumb1
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/game_dude_rig:Character1_RightShoulder/game_dude_rig:Character1_RightArm/game_dude_rig:Character1_RightForeArm/game_dude_rig:Character1_RightHand/game_dude_rig:Character1_RightHandThumb1/game_dude_rig:Character1_RightHandThumb2
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/game_dude_rig:Character1_RightShoulder/game_dude_rig:Character1_RightArm/game_dude_rig:Character1_RightForeArm/game_dude_rig:Character1_RightHand/game_dude_rig:Character1_RightHandThumb1/game_dude_rig:Character1_RightHandThumb2/game_dude_rig:Character1_RightHandThumb3
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/ikHandle5
+        weight: 0
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/ikHandle6
+        weight: 0
+      - path: pCube1
+        weight: 0
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: SwingCharge
+      takeName: Take 001
+      firstFrame: 50
+      lastFrame: 68
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 00000000000000000100000000000000000000000100000001000000010000000100000000000000000000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Character_Mesh_Group
+        weight: 0
+      - path: Character_Mesh_Group/arm_armor_mesh
+        weight: 0
+      - path: Character_Mesh_Group/boots_mesh
+        weight: 0
+      - path: Character_Mesh_Group/hair_mesh
+        weight: 0
+      - path: Character_Mesh_Group/harness_mesh
+        weight: 0
+      - path: Character_Mesh_Group/head_mesh
+        weight: 0
+      - path: Character_Mesh_Group/knee_armor_mesh
+        weight: 0
+      - path: Character_Mesh_Group/L_arm_mesh
+        weight: 0
+      - path: Character_Mesh_Group/L_eye_mesh
+        weight: 0
+      - path: Character_Mesh_Group/L_leg_mesh
+        weight: 0
+      - path: Character_Mesh_Group/R_arm_mesh
+        weight: 0
+      - path: Character_Mesh_Group/R_eye_mesh
+        weight: 0
+      - path: Character_Mesh_Group/R_leg_mesh
+        weight: 0
+      - path: Character_Mesh_Group/shoulder_armor_mesh
+        weight: 0
+      - path: Character_Mesh_Group/torso_mesh
+        weight: 0
+      - path: Character_Mesh_Group/tunic_mesh
+        weight: 0
+      - path: Ctrl_Scale
+        weight: 1
+      - path: Ctrl_Scale/ControlObjects
+        weight: 0
+      - path: Ctrl_Scale/ControlObjects/LocControl
+        weight: 0
+      - path: Ctrl_Scale/ControlObjects/LocControl/helperArrowsGRP
+        weight: 0
+      - path: Ctrl_Scale/ControlObjects/LocControl/helperArrowsGRP/helperArrow1
+        weight: 0
+      - path: Ctrl_Scale/ControlObjects/LocControl/helperArrowsGRP/helperArrow2
+        weight: 0
+      - path: Ctrl_Scale/ControlObjects/LocControl/helperArrowsGRP/helperArrow3
+        weight: 0
+      - path: Ctrl_Scale/ControlObjects/LocControl/helperArrowsGRP/helperArrow4
+        weight: 0
+      - path: Ctrl_Scale/ControlObjects/LocControl/HipControl
+        weight: 0
+      - path: Ctrl_Scale/ControlObjects/LocControl/HipControl/TorsoControl
+        weight: 0
+      - path: Ctrl_Scale/ControlObjects/LocControl/HipControl/TorsoControl/headControl
+        weight: 0
+      - path: Ctrl_Scale/ControlObjects/LocControl/HipControl/TorsoControl/LArmCtrls
+        weight: 0
+      - path: Ctrl_Scale/ControlObjects/LocControl/HipControl/TorsoControl/LArmCtrls/ArmControlL
+        weight: 0
+      - path: Ctrl_Scale/ControlObjects/LocControl/HipControl/TorsoControl/LArmCtrls/ArmControlL/LowerArmControlL
+        weight: 0
+      - path: Ctrl_Scale/ControlObjects/LocControl/HipControl/TorsoControl/LArmCtrls/ArmControlL/LowerArmControlL/HandControlL
+        weight: 0
+      - path: Ctrl_Scale/ControlObjects/LocControl/HipControl/TorsoControl/LHandControls
+        weight: 0
+      - path: Ctrl_Scale/ControlObjects/LocControl/HipControl/TorsoControl/RArmCtrls
+        weight: 0
+      - path: Ctrl_Scale/ControlObjects/LocControl/HipControl/TorsoControl/RArmCtrls/ArmControlR
+        weight: 0
+      - path: Ctrl_Scale/ControlObjects/LocControl/HipControl/TorsoControl/RArmCtrls/ArmControlR/LowerArmControlR
+        weight: 0
+      - path: Ctrl_Scale/ControlObjects/LocControl/HipControl/TorsoControl/RArmCtrls/ArmControlR/LowerArmControlR/HandControlR
+        weight: 0
+      - path: Ctrl_Scale/ControlObjects/LocControl/HipControl/TorsoControl/RHandControls
+        weight: 0
+      - path: Ctrl_Scale/ControlObjects/LocControl/HipControl/TorsoControl/ShoulderL
+        weight: 0
+      - path: Ctrl_Scale/ControlObjects/LocControl/HipControl/TorsoControl/ShoulderR
+        weight: 0
+      - path: Ctrl_Scale/ControlObjects/LocControl/KneeDirectionL
+        weight: 0
+      - path: Ctrl_Scale/ControlObjects/LocControl/KneeDirectionR
+        weight: 0
+      - path: Ctrl_Scale/ControlObjects/LocControl/LegControlL
+        weight: 0
+      - path: Ctrl_Scale/ControlObjects/LocControl/LegControlR
+        weight: 0
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/curve1
+        weight: 0
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_LeftUpLeg
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_LeftUpLeg/game_dude_rig:Character1_LeftLeg
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_LeftUpLeg/game_dude_rig:Character1_LeftLeg/game_dude_rig:Character1_LeftFoot
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_LeftUpLeg/game_dude_rig:Character1_LeftLeg/game_dude_rig:Character1_LeftFoot/game_dude_rig:Character1_LeftToeBase
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_RightUpLeg
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_RightUpLeg/game_dude_rig:Character1_RightLeg
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_RightUpLeg/game_dude_rig:Character1_RightLeg/game_dude_rig:Character1_RightFoot
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_RightUpLeg/game_dude_rig:Character1_RightLeg/game_dude_rig:Character1_RightFoot/game_dude_rig:Character1_RightToeBase
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/Character1_Left_Shoulder
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/Character1_Left_Shoulder/Character1_Left_Arm
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/Character1_Left_Shoulder/Character1_Left_Arm/Character1_LeftForeArm
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/Character1_Left_Shoulder/Character1_Left_Arm/Character1_LeftForeArm/Character1_LeftHand
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/Character1_Left_Shoulder/Character1_Left_Arm/Character1_LeftForeArm/Character1_LeftHand/Character1_RightHandIndex1
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/Character1_Left_Shoulder/Character1_Left_Arm/Character1_LeftForeArm/Character1_LeftHand/Character1_RightHandIndex1/Character1_RightHandIndex2
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/Character1_Left_Shoulder/Character1_Left_Arm/Character1_LeftForeArm/Character1_LeftHand/Character1_RightHandIndex1/Character1_RightHandIndex2/Character1_RightHandIndex3
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/Character1_Left_Shoulder/Character1_Left_Arm/Character1_LeftForeArm/Character1_LeftHand/Character1_RightHandMiddle1
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/Character1_Left_Shoulder/Character1_Left_Arm/Character1_LeftForeArm/Character1_LeftHand/Character1_RightHandMiddle1/Character1_RightHandMiddle2
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/Character1_Left_Shoulder/Character1_Left_Arm/Character1_LeftForeArm/Character1_LeftHand/Character1_RightHandMiddle1/Character1_RightHandMiddle2/Character1_RightHandMiddle3
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/Character1_Left_Shoulder/Character1_Left_Arm/Character1_LeftForeArm/Character1_LeftHand/Character1_RightHandPinky1
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/Character1_Left_Shoulder/Character1_Left_Arm/Character1_LeftForeArm/Character1_LeftHand/Character1_RightHandPinky1/Character1_RightHandPinky2
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/Character1_Left_Shoulder/Character1_Left_Arm/Character1_LeftForeArm/Character1_LeftHand/Character1_RightHandPinky1/Character1_RightHandPinky2/Character1_RightHandPinky3
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/Character1_Left_Shoulder/Character1_Left_Arm/Character1_LeftForeArm/Character1_LeftHand/Character1_RightHandRing1
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/Character1_Left_Shoulder/Character1_Left_Arm/Character1_LeftForeArm/Character1_LeftHand/Character1_RightHandRing1/Character1_RightHandRing2
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/Character1_Left_Shoulder/Character1_Left_Arm/Character1_LeftForeArm/Character1_LeftHand/Character1_RightHandRing1/Character1_RightHandRing2/Character1_RightHandRing3
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/Character1_Left_Shoulder/Character1_Left_Arm/Character1_LeftForeArm/Character1_LeftHand/Character1_RightHandThumb1
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/Character1_Left_Shoulder/Character1_Left_Arm/Character1_LeftForeArm/Character1_LeftHand/Character1_RightHandThumb1/Character1_RightHandThumb2
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/Character1_Left_Shoulder/Character1_Left_Arm/Character1_LeftForeArm/Character1_LeftHand/Character1_RightHandThumb1/Character1_RightHandThumb2/Character1_RightHandThumb3
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/game_dude_rig:Character1_Neck
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/game_dude_rig:Character1_Neck/game_dude_rig:Character1_Head
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/game_dude_rig:Character1_RightShoulder
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/game_dude_rig:Character1_RightShoulder/game_dude_rig:Character1_RightArm
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/game_dude_rig:Character1_RightShoulder/game_dude_rig:Character1_RightArm/game_dude_rig:Character1_RightForeArm
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/game_dude_rig:Character1_RightShoulder/game_dude_rig:Character1_RightArm/game_dude_rig:Character1_RightForeArm/game_dude_rig:Character1_RightHand
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/game_dude_rig:Character1_RightShoulder/game_dude_rig:Character1_RightArm/game_dude_rig:Character1_RightForeArm/game_dude_rig:Character1_RightHand/game_dude_rig:Character1_RightHandIndex1
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/game_dude_rig:Character1_RightShoulder/game_dude_rig:Character1_RightArm/game_dude_rig:Character1_RightForeArm/game_dude_rig:Character1_RightHand/game_dude_rig:Character1_RightHandIndex1/game_dude_rig:Character1_RightHandIndex2
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/game_dude_rig:Character1_RightShoulder/game_dude_rig:Character1_RightArm/game_dude_rig:Character1_RightForeArm/game_dude_rig:Character1_RightHand/game_dude_rig:Character1_RightHandIndex1/game_dude_rig:Character1_RightHandIndex2/game_dude_rig:Character1_RightHandIndex3
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/game_dude_rig:Character1_RightShoulder/game_dude_rig:Character1_RightArm/game_dude_rig:Character1_RightForeArm/game_dude_rig:Character1_RightHand/game_dude_rig:Character1_RightHandMiddle1
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/game_dude_rig:Character1_RightShoulder/game_dude_rig:Character1_RightArm/game_dude_rig:Character1_RightForeArm/game_dude_rig:Character1_RightHand/game_dude_rig:Character1_RightHandMiddle1/game_dude_rig:Character1_RightHandMiddle2
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/game_dude_rig:Character1_RightShoulder/game_dude_rig:Character1_RightArm/game_dude_rig:Character1_RightForeArm/game_dude_rig:Character1_RightHand/game_dude_rig:Character1_RightHandMiddle1/game_dude_rig:Character1_RightHandMiddle2/game_dude_rig:Character1_RightHandMiddle3
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/game_dude_rig:Character1_RightShoulder/game_dude_rig:Character1_RightArm/game_dude_rig:Character1_RightForeArm/game_dude_rig:Character1_RightHand/game_dude_rig:Character1_RightHandPinky1
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/game_dude_rig:Character1_RightShoulder/game_dude_rig:Character1_RightArm/game_dude_rig:Character1_RightForeArm/game_dude_rig:Character1_RightHand/game_dude_rig:Character1_RightHandPinky1/game_dude_rig:Character1_RightHandPinky2
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/game_dude_rig:Character1_RightShoulder/game_dude_rig:Character1_RightArm/game_dude_rig:Character1_RightForeArm/game_dude_rig:Character1_RightHand/game_dude_rig:Character1_RightHandPinky1/game_dude_rig:Character1_RightHandPinky2/game_dude_rig:Character1_RightHandPinky3
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/game_dude_rig:Character1_RightShoulder/game_dude_rig:Character1_RightArm/game_dude_rig:Character1_RightForeArm/game_dude_rig:Character1_RightHand/game_dude_rig:Character1_RightHandRing1
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/game_dude_rig:Character1_RightShoulder/game_dude_rig:Character1_RightArm/game_dude_rig:Character1_RightForeArm/game_dude_rig:Character1_RightHand/game_dude_rig:Character1_RightHandRing1/game_dude_rig:Character1_RightHandRing2
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/game_dude_rig:Character1_RightShoulder/game_dude_rig:Character1_RightArm/game_dude_rig:Character1_RightForeArm/game_dude_rig:Character1_RightHand/game_dude_rig:Character1_RightHandRing1/game_dude_rig:Character1_RightHandRing2/game_dude_rig:Character1_RightHandRing3
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/game_dude_rig:Character1_RightShoulder/game_dude_rig:Character1_RightArm/game_dude_rig:Character1_RightForeArm/game_dude_rig:Character1_RightHand/game_dude_rig:Character1_RightHandThumb1
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/game_dude_rig:Character1_RightShoulder/game_dude_rig:Character1_RightArm/game_dude_rig:Character1_RightForeArm/game_dude_rig:Character1_RightHand/game_dude_rig:Character1_RightHandThumb1/game_dude_rig:Character1_RightHandThumb2
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/game_dude_rig:Character1_RightShoulder/game_dude_rig:Character1_RightArm/game_dude_rig:Character1_RightForeArm/game_dude_rig:Character1_RightHand/game_dude_rig:Character1_RightHandThumb1/game_dude_rig:Character1_RightHandThumb2/game_dude_rig:Character1_RightHandThumb3
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/ikHandle5
+        weight: 0
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/ikHandle6
+        weight: 0
+      - path: pCube1
+        weight: 0
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: ThrowSwing
+      takeName: Take 001
+      firstFrame: 70
+      lastFrame: 78
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 00000000000000000100000000000000000000000100000001000000010000000100000000000000000000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Character_Mesh_Group
+        weight: 0
+      - path: Character_Mesh_Group/arm_armor_mesh
+        weight: 0
+      - path: Character_Mesh_Group/boots_mesh
+        weight: 0
+      - path: Character_Mesh_Group/hair_mesh
+        weight: 0
+      - path: Character_Mesh_Group/harness_mesh
+        weight: 0
+      - path: Character_Mesh_Group/head_mesh
+        weight: 0
+      - path: Character_Mesh_Group/knee_armor_mesh
+        weight: 0
+      - path: Character_Mesh_Group/L_arm_mesh
+        weight: 0
+      - path: Character_Mesh_Group/L_eye_mesh
+        weight: 0
+      - path: Character_Mesh_Group/L_leg_mesh
+        weight: 0
+      - path: Character_Mesh_Group/R_arm_mesh
+        weight: 0
+      - path: Character_Mesh_Group/R_eye_mesh
+        weight: 0
+      - path: Character_Mesh_Group/R_leg_mesh
+        weight: 0
+      - path: Character_Mesh_Group/shoulder_armor_mesh
+        weight: 0
+      - path: Character_Mesh_Group/torso_mesh
+        weight: 0
+      - path: Character_Mesh_Group/tunic_mesh
+        weight: 0
+      - path: Ctrl_Scale
+        weight: 1
+      - path: Ctrl_Scale/ControlObjects
+        weight: 0
+      - path: Ctrl_Scale/ControlObjects/LocControl
+        weight: 0
+      - path: Ctrl_Scale/ControlObjects/LocControl/helperArrowsGRP
+        weight: 0
+      - path: Ctrl_Scale/ControlObjects/LocControl/helperArrowsGRP/helperArrow1
+        weight: 0
+      - path: Ctrl_Scale/ControlObjects/LocControl/helperArrowsGRP/helperArrow2
+        weight: 0
+      - path: Ctrl_Scale/ControlObjects/LocControl/helperArrowsGRP/helperArrow3
+        weight: 0
+      - path: Ctrl_Scale/ControlObjects/LocControl/helperArrowsGRP/helperArrow4
+        weight: 0
+      - path: Ctrl_Scale/ControlObjects/LocControl/HipControl
+        weight: 0
+      - path: Ctrl_Scale/ControlObjects/LocControl/HipControl/TorsoControl
+        weight: 0
+      - path: Ctrl_Scale/ControlObjects/LocControl/HipControl/TorsoControl/headControl
+        weight: 0
+      - path: Ctrl_Scale/ControlObjects/LocControl/HipControl/TorsoControl/LArmCtrls
+        weight: 0
+      - path: Ctrl_Scale/ControlObjects/LocControl/HipControl/TorsoControl/LArmCtrls/ArmControlL
+        weight: 0
+      - path: Ctrl_Scale/ControlObjects/LocControl/HipControl/TorsoControl/LArmCtrls/ArmControlL/LowerArmControlL
+        weight: 0
+      - path: Ctrl_Scale/ControlObjects/LocControl/HipControl/TorsoControl/LArmCtrls/ArmControlL/LowerArmControlL/HandControlL
+        weight: 0
+      - path: Ctrl_Scale/ControlObjects/LocControl/HipControl/TorsoControl/LHandControls
+        weight: 0
+      - path: Ctrl_Scale/ControlObjects/LocControl/HipControl/TorsoControl/RArmCtrls
+        weight: 0
+      - path: Ctrl_Scale/ControlObjects/LocControl/HipControl/TorsoControl/RArmCtrls/ArmControlR
+        weight: 0
+      - path: Ctrl_Scale/ControlObjects/LocControl/HipControl/TorsoControl/RArmCtrls/ArmControlR/LowerArmControlR
+        weight: 0
+      - path: Ctrl_Scale/ControlObjects/LocControl/HipControl/TorsoControl/RArmCtrls/ArmControlR/LowerArmControlR/HandControlR
+        weight: 0
+      - path: Ctrl_Scale/ControlObjects/LocControl/HipControl/TorsoControl/RHandControls
+        weight: 0
+      - path: Ctrl_Scale/ControlObjects/LocControl/HipControl/TorsoControl/ShoulderL
+        weight: 0
+      - path: Ctrl_Scale/ControlObjects/LocControl/HipControl/TorsoControl/ShoulderR
+        weight: 0
+      - path: Ctrl_Scale/ControlObjects/LocControl/KneeDirectionL
+        weight: 0
+      - path: Ctrl_Scale/ControlObjects/LocControl/KneeDirectionR
+        weight: 0
+      - path: Ctrl_Scale/ControlObjects/LocControl/LegControlL
+        weight: 0
+      - path: Ctrl_Scale/ControlObjects/LocControl/LegControlR
+        weight: 0
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/curve1
+        weight: 0
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_LeftUpLeg
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_LeftUpLeg/game_dude_rig:Character1_LeftLeg
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_LeftUpLeg/game_dude_rig:Character1_LeftLeg/game_dude_rig:Character1_LeftFoot
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_LeftUpLeg/game_dude_rig:Character1_LeftLeg/game_dude_rig:Character1_LeftFoot/game_dude_rig:Character1_LeftToeBase
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_RightUpLeg
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_RightUpLeg/game_dude_rig:Character1_RightLeg
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_RightUpLeg/game_dude_rig:Character1_RightLeg/game_dude_rig:Character1_RightFoot
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_RightUpLeg/game_dude_rig:Character1_RightLeg/game_dude_rig:Character1_RightFoot/game_dude_rig:Character1_RightToeBase
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/Character1_Left_Shoulder
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/Character1_Left_Shoulder/Character1_Left_Arm
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/Character1_Left_Shoulder/Character1_Left_Arm/Character1_LeftForeArm
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/Character1_Left_Shoulder/Character1_Left_Arm/Character1_LeftForeArm/Character1_LeftHand
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/Character1_Left_Shoulder/Character1_Left_Arm/Character1_LeftForeArm/Character1_LeftHand/Character1_RightHandIndex1
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/Character1_Left_Shoulder/Character1_Left_Arm/Character1_LeftForeArm/Character1_LeftHand/Character1_RightHandIndex1/Character1_RightHandIndex2
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/Character1_Left_Shoulder/Character1_Left_Arm/Character1_LeftForeArm/Character1_LeftHand/Character1_RightHandIndex1/Character1_RightHandIndex2/Character1_RightHandIndex3
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/Character1_Left_Shoulder/Character1_Left_Arm/Character1_LeftForeArm/Character1_LeftHand/Character1_RightHandMiddle1
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/Character1_Left_Shoulder/Character1_Left_Arm/Character1_LeftForeArm/Character1_LeftHand/Character1_RightHandMiddle1/Character1_RightHandMiddle2
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/Character1_Left_Shoulder/Character1_Left_Arm/Character1_LeftForeArm/Character1_LeftHand/Character1_RightHandMiddle1/Character1_RightHandMiddle2/Character1_RightHandMiddle3
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/Character1_Left_Shoulder/Character1_Left_Arm/Character1_LeftForeArm/Character1_LeftHand/Character1_RightHandPinky1
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/Character1_Left_Shoulder/Character1_Left_Arm/Character1_LeftForeArm/Character1_LeftHand/Character1_RightHandPinky1/Character1_RightHandPinky2
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/Character1_Left_Shoulder/Character1_Left_Arm/Character1_LeftForeArm/Character1_LeftHand/Character1_RightHandPinky1/Character1_RightHandPinky2/Character1_RightHandPinky3
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/Character1_Left_Shoulder/Character1_Left_Arm/Character1_LeftForeArm/Character1_LeftHand/Character1_RightHandRing1
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/Character1_Left_Shoulder/Character1_Left_Arm/Character1_LeftForeArm/Character1_LeftHand/Character1_RightHandRing1/Character1_RightHandRing2
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/Character1_Left_Shoulder/Character1_Left_Arm/Character1_LeftForeArm/Character1_LeftHand/Character1_RightHandRing1/Character1_RightHandRing2/Character1_RightHandRing3
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/Character1_Left_Shoulder/Character1_Left_Arm/Character1_LeftForeArm/Character1_LeftHand/Character1_RightHandThumb1
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/Character1_Left_Shoulder/Character1_Left_Arm/Character1_LeftForeArm/Character1_LeftHand/Character1_RightHandThumb1/Character1_RightHandThumb2
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/Character1_Left_Shoulder/Character1_Left_Arm/Character1_LeftForeArm/Character1_LeftHand/Character1_RightHandThumb1/Character1_RightHandThumb2/Character1_RightHandThumb3
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/game_dude_rig:Character1_Neck
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/game_dude_rig:Character1_Neck/game_dude_rig:Character1_Head
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/game_dude_rig:Character1_RightShoulder
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/game_dude_rig:Character1_RightShoulder/game_dude_rig:Character1_RightArm
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/game_dude_rig:Character1_RightShoulder/game_dude_rig:Character1_RightArm/game_dude_rig:Character1_RightForeArm
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/game_dude_rig:Character1_RightShoulder/game_dude_rig:Character1_RightArm/game_dude_rig:Character1_RightForeArm/game_dude_rig:Character1_RightHand
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/game_dude_rig:Character1_RightShoulder/game_dude_rig:Character1_RightArm/game_dude_rig:Character1_RightForeArm/game_dude_rig:Character1_RightHand/game_dude_rig:Character1_RightHandIndex1
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/game_dude_rig:Character1_RightShoulder/game_dude_rig:Character1_RightArm/game_dude_rig:Character1_RightForeArm/game_dude_rig:Character1_RightHand/game_dude_rig:Character1_RightHandIndex1/game_dude_rig:Character1_RightHandIndex2
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/game_dude_rig:Character1_RightShoulder/game_dude_rig:Character1_RightArm/game_dude_rig:Character1_RightForeArm/game_dude_rig:Character1_RightHand/game_dude_rig:Character1_RightHandIndex1/game_dude_rig:Character1_RightHandIndex2/game_dude_rig:Character1_RightHandIndex3
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/game_dude_rig:Character1_RightShoulder/game_dude_rig:Character1_RightArm/game_dude_rig:Character1_RightForeArm/game_dude_rig:Character1_RightHand/game_dude_rig:Character1_RightHandMiddle1
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/game_dude_rig:Character1_RightShoulder/game_dude_rig:Character1_RightArm/game_dude_rig:Character1_RightForeArm/game_dude_rig:Character1_RightHand/game_dude_rig:Character1_RightHandMiddle1/game_dude_rig:Character1_RightHandMiddle2
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/game_dude_rig:Character1_RightShoulder/game_dude_rig:Character1_RightArm/game_dude_rig:Character1_RightForeArm/game_dude_rig:Character1_RightHand/game_dude_rig:Character1_RightHandMiddle1/game_dude_rig:Character1_RightHandMiddle2/game_dude_rig:Character1_RightHandMiddle3
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/game_dude_rig:Character1_RightShoulder/game_dude_rig:Character1_RightArm/game_dude_rig:Character1_RightForeArm/game_dude_rig:Character1_RightHand/game_dude_rig:Character1_RightHandPinky1
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/game_dude_rig:Character1_RightShoulder/game_dude_rig:Character1_RightArm/game_dude_rig:Character1_RightForeArm/game_dude_rig:Character1_RightHand/game_dude_rig:Character1_RightHandPinky1/game_dude_rig:Character1_RightHandPinky2
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/game_dude_rig:Character1_RightShoulder/game_dude_rig:Character1_RightArm/game_dude_rig:Character1_RightForeArm/game_dude_rig:Character1_RightHand/game_dude_rig:Character1_RightHandPinky1/game_dude_rig:Character1_RightHandPinky2/game_dude_rig:Character1_RightHandPinky3
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/game_dude_rig:Character1_RightShoulder/game_dude_rig:Character1_RightArm/game_dude_rig:Character1_RightForeArm/game_dude_rig:Character1_RightHand/game_dude_rig:Character1_RightHandRing1
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/game_dude_rig:Character1_RightShoulder/game_dude_rig:Character1_RightArm/game_dude_rig:Character1_RightForeArm/game_dude_rig:Character1_RightHand/game_dude_rig:Character1_RightHandRing1/game_dude_rig:Character1_RightHandRing2
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/game_dude_rig:Character1_RightShoulder/game_dude_rig:Character1_RightArm/game_dude_rig:Character1_RightForeArm/game_dude_rig:Character1_RightHand/game_dude_rig:Character1_RightHandRing1/game_dude_rig:Character1_RightHandRing2/game_dude_rig:Character1_RightHandRing3
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/game_dude_rig:Character1_RightShoulder/game_dude_rig:Character1_RightArm/game_dude_rig:Character1_RightForeArm/game_dude_rig:Character1_RightHand/game_dude_rig:Character1_RightHandThumb1
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/game_dude_rig:Character1_RightShoulder/game_dude_rig:Character1_RightArm/game_dude_rig:Character1_RightForeArm/game_dude_rig:Character1_RightHand/game_dude_rig:Character1_RightHandThumb1/game_dude_rig:Character1_RightHandThumb2
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/game_dude_rig:Character1_RightShoulder/game_dude_rig:Character1_RightArm/game_dude_rig:Character1_RightForeArm/game_dude_rig:Character1_RightHand/game_dude_rig:Character1_RightHandThumb1/game_dude_rig:Character1_RightHandThumb2/game_dude_rig:Character1_RightHandThumb3
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/ikHandle5
+        weight: 0
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/ikHandle6
+        weight: 0
+      - path: pCube1
+        weight: 0
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: SwingHold
+      takeName: Take 001
+      firstFrame: 69
+      lastFrame: 69.0999985
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 00000000000000000100000000000000000000000100000001000000010000000100000000000000000000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Character_Mesh_Group
+        weight: 0
+      - path: Character_Mesh_Group/arm_armor_mesh
+        weight: 0
+      - path: Character_Mesh_Group/boots_mesh
+        weight: 0
+      - path: Character_Mesh_Group/hair_mesh
+        weight: 0
+      - path: Character_Mesh_Group/harness_mesh
+        weight: 0
+      - path: Character_Mesh_Group/head_mesh
+        weight: 0
+      - path: Character_Mesh_Group/knee_armor_mesh
+        weight: 0
+      - path: Character_Mesh_Group/L_arm_mesh
+        weight: 0
+      - path: Character_Mesh_Group/L_eye_mesh
+        weight: 0
+      - path: Character_Mesh_Group/L_leg_mesh
+        weight: 0
+      - path: Character_Mesh_Group/R_arm_mesh
+        weight: 0
+      - path: Character_Mesh_Group/R_eye_mesh
+        weight: 0
+      - path: Character_Mesh_Group/R_leg_mesh
+        weight: 0
+      - path: Character_Mesh_Group/shoulder_armor_mesh
+        weight: 0
+      - path: Character_Mesh_Group/torso_mesh
+        weight: 0
+      - path: Character_Mesh_Group/tunic_mesh
+        weight: 0
+      - path: Ctrl_Scale
+        weight: 1
+      - path: Ctrl_Scale/ControlObjects
+        weight: 0
+      - path: Ctrl_Scale/ControlObjects/LocControl
+        weight: 0
+      - path: Ctrl_Scale/ControlObjects/LocControl/helperArrowsGRP
+        weight: 0
+      - path: Ctrl_Scale/ControlObjects/LocControl/helperArrowsGRP/helperArrow1
+        weight: 0
+      - path: Ctrl_Scale/ControlObjects/LocControl/helperArrowsGRP/helperArrow2
+        weight: 0
+      - path: Ctrl_Scale/ControlObjects/LocControl/helperArrowsGRP/helperArrow3
+        weight: 0
+      - path: Ctrl_Scale/ControlObjects/LocControl/helperArrowsGRP/helperArrow4
+        weight: 0
+      - path: Ctrl_Scale/ControlObjects/LocControl/HipControl
+        weight: 0
+      - path: Ctrl_Scale/ControlObjects/LocControl/HipControl/TorsoControl
+        weight: 0
+      - path: Ctrl_Scale/ControlObjects/LocControl/HipControl/TorsoControl/headControl
+        weight: 0
+      - path: Ctrl_Scale/ControlObjects/LocControl/HipControl/TorsoControl/LArmCtrls
+        weight: 0
+      - path: Ctrl_Scale/ControlObjects/LocControl/HipControl/TorsoControl/LArmCtrls/ArmControlL
+        weight: 0
+      - path: Ctrl_Scale/ControlObjects/LocControl/HipControl/TorsoControl/LArmCtrls/ArmControlL/LowerArmControlL
+        weight: 0
+      - path: Ctrl_Scale/ControlObjects/LocControl/HipControl/TorsoControl/LArmCtrls/ArmControlL/LowerArmControlL/HandControlL
+        weight: 0
+      - path: Ctrl_Scale/ControlObjects/LocControl/HipControl/TorsoControl/LHandControls
+        weight: 0
+      - path: Ctrl_Scale/ControlObjects/LocControl/HipControl/TorsoControl/RArmCtrls
+        weight: 0
+      - path: Ctrl_Scale/ControlObjects/LocControl/HipControl/TorsoControl/RArmCtrls/ArmControlR
+        weight: 0
+      - path: Ctrl_Scale/ControlObjects/LocControl/HipControl/TorsoControl/RArmCtrls/ArmControlR/LowerArmControlR
+        weight: 0
+      - path: Ctrl_Scale/ControlObjects/LocControl/HipControl/TorsoControl/RArmCtrls/ArmControlR/LowerArmControlR/HandControlR
+        weight: 0
+      - path: Ctrl_Scale/ControlObjects/LocControl/HipControl/TorsoControl/RHandControls
+        weight: 0
+      - path: Ctrl_Scale/ControlObjects/LocControl/HipControl/TorsoControl/ShoulderL
+        weight: 0
+      - path: Ctrl_Scale/ControlObjects/LocControl/HipControl/TorsoControl/ShoulderR
+        weight: 0
+      - path: Ctrl_Scale/ControlObjects/LocControl/KneeDirectionL
+        weight: 0
+      - path: Ctrl_Scale/ControlObjects/LocControl/KneeDirectionR
+        weight: 0
+      - path: Ctrl_Scale/ControlObjects/LocControl/LegControlL
+        weight: 0
+      - path: Ctrl_Scale/ControlObjects/LocControl/LegControlR
+        weight: 0
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/curve1
+        weight: 0
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_LeftUpLeg
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_LeftUpLeg/game_dude_rig:Character1_LeftLeg
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_LeftUpLeg/game_dude_rig:Character1_LeftLeg/game_dude_rig:Character1_LeftFoot
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_LeftUpLeg/game_dude_rig:Character1_LeftLeg/game_dude_rig:Character1_LeftFoot/game_dude_rig:Character1_LeftToeBase
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_RightUpLeg
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_RightUpLeg/game_dude_rig:Character1_RightLeg
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_RightUpLeg/game_dude_rig:Character1_RightLeg/game_dude_rig:Character1_RightFoot
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_RightUpLeg/game_dude_rig:Character1_RightLeg/game_dude_rig:Character1_RightFoot/game_dude_rig:Character1_RightToeBase
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/Character1_Left_Shoulder
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/Character1_Left_Shoulder/Character1_Left_Arm
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/Character1_Left_Shoulder/Character1_Left_Arm/Character1_LeftForeArm
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/Character1_Left_Shoulder/Character1_Left_Arm/Character1_LeftForeArm/Character1_LeftHand
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/Character1_Left_Shoulder/Character1_Left_Arm/Character1_LeftForeArm/Character1_LeftHand/Character1_RightHandIndex1
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/Character1_Left_Shoulder/Character1_Left_Arm/Character1_LeftForeArm/Character1_LeftHand/Character1_RightHandIndex1/Character1_RightHandIndex2
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/Character1_Left_Shoulder/Character1_Left_Arm/Character1_LeftForeArm/Character1_LeftHand/Character1_RightHandIndex1/Character1_RightHandIndex2/Character1_RightHandIndex3
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/Character1_Left_Shoulder/Character1_Left_Arm/Character1_LeftForeArm/Character1_LeftHand/Character1_RightHandMiddle1
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/Character1_Left_Shoulder/Character1_Left_Arm/Character1_LeftForeArm/Character1_LeftHand/Character1_RightHandMiddle1/Character1_RightHandMiddle2
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/Character1_Left_Shoulder/Character1_Left_Arm/Character1_LeftForeArm/Character1_LeftHand/Character1_RightHandMiddle1/Character1_RightHandMiddle2/Character1_RightHandMiddle3
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/Character1_Left_Shoulder/Character1_Left_Arm/Character1_LeftForeArm/Character1_LeftHand/Character1_RightHandPinky1
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/Character1_Left_Shoulder/Character1_Left_Arm/Character1_LeftForeArm/Character1_LeftHand/Character1_RightHandPinky1/Character1_RightHandPinky2
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/Character1_Left_Shoulder/Character1_Left_Arm/Character1_LeftForeArm/Character1_LeftHand/Character1_RightHandPinky1/Character1_RightHandPinky2/Character1_RightHandPinky3
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/Character1_Left_Shoulder/Character1_Left_Arm/Character1_LeftForeArm/Character1_LeftHand/Character1_RightHandRing1
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/Character1_Left_Shoulder/Character1_Left_Arm/Character1_LeftForeArm/Character1_LeftHand/Character1_RightHandRing1/Character1_RightHandRing2
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/Character1_Left_Shoulder/Character1_Left_Arm/Character1_LeftForeArm/Character1_LeftHand/Character1_RightHandRing1/Character1_RightHandRing2/Character1_RightHandRing3
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/Character1_Left_Shoulder/Character1_Left_Arm/Character1_LeftForeArm/Character1_LeftHand/Character1_RightHandThumb1
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/Character1_Left_Shoulder/Character1_Left_Arm/Character1_LeftForeArm/Character1_LeftHand/Character1_RightHandThumb1/Character1_RightHandThumb2
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/Character1_Left_Shoulder/Character1_Left_Arm/Character1_LeftForeArm/Character1_LeftHand/Character1_RightHandThumb1/Character1_RightHandThumb2/Character1_RightHandThumb3
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/game_dude_rig:Character1_Neck
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/game_dude_rig:Character1_Neck/game_dude_rig:Character1_Head
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/game_dude_rig:Character1_RightShoulder
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/game_dude_rig:Character1_RightShoulder/game_dude_rig:Character1_RightArm
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/game_dude_rig:Character1_RightShoulder/game_dude_rig:Character1_RightArm/game_dude_rig:Character1_RightForeArm
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/game_dude_rig:Character1_RightShoulder/game_dude_rig:Character1_RightArm/game_dude_rig:Character1_RightForeArm/game_dude_rig:Character1_RightHand
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/game_dude_rig:Character1_RightShoulder/game_dude_rig:Character1_RightArm/game_dude_rig:Character1_RightForeArm/game_dude_rig:Character1_RightHand/game_dude_rig:Character1_RightHandIndex1
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/game_dude_rig:Character1_RightShoulder/game_dude_rig:Character1_RightArm/game_dude_rig:Character1_RightForeArm/game_dude_rig:Character1_RightHand/game_dude_rig:Character1_RightHandIndex1/game_dude_rig:Character1_RightHandIndex2
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/game_dude_rig:Character1_RightShoulder/game_dude_rig:Character1_RightArm/game_dude_rig:Character1_RightForeArm/game_dude_rig:Character1_RightHand/game_dude_rig:Character1_RightHandIndex1/game_dude_rig:Character1_RightHandIndex2/game_dude_rig:Character1_RightHandIndex3
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/game_dude_rig:Character1_RightShoulder/game_dude_rig:Character1_RightArm/game_dude_rig:Character1_RightForeArm/game_dude_rig:Character1_RightHand/game_dude_rig:Character1_RightHandMiddle1
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/game_dude_rig:Character1_RightShoulder/game_dude_rig:Character1_RightArm/game_dude_rig:Character1_RightForeArm/game_dude_rig:Character1_RightHand/game_dude_rig:Character1_RightHandMiddle1/game_dude_rig:Character1_RightHandMiddle2
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/game_dude_rig:Character1_RightShoulder/game_dude_rig:Character1_RightArm/game_dude_rig:Character1_RightForeArm/game_dude_rig:Character1_RightHand/game_dude_rig:Character1_RightHandMiddle1/game_dude_rig:Character1_RightHandMiddle2/game_dude_rig:Character1_RightHandMiddle3
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/game_dude_rig:Character1_RightShoulder/game_dude_rig:Character1_RightArm/game_dude_rig:Character1_RightForeArm/game_dude_rig:Character1_RightHand/game_dude_rig:Character1_RightHandPinky1
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/game_dude_rig:Character1_RightShoulder/game_dude_rig:Character1_RightArm/game_dude_rig:Character1_RightForeArm/game_dude_rig:Character1_RightHand/game_dude_rig:Character1_RightHandPinky1/game_dude_rig:Character1_RightHandPinky2
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/game_dude_rig:Character1_RightShoulder/game_dude_rig:Character1_RightArm/game_dude_rig:Character1_RightForeArm/game_dude_rig:Character1_RightHand/game_dude_rig:Character1_RightHandPinky1/game_dude_rig:Character1_RightHandPinky2/game_dude_rig:Character1_RightHandPinky3
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/game_dude_rig:Character1_RightShoulder/game_dude_rig:Character1_RightArm/game_dude_rig:Character1_RightForeArm/game_dude_rig:Character1_RightHand/game_dude_rig:Character1_RightHandRing1
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/game_dude_rig:Character1_RightShoulder/game_dude_rig:Character1_RightArm/game_dude_rig:Character1_RightForeArm/game_dude_rig:Character1_RightHand/game_dude_rig:Character1_RightHandRing1/game_dude_rig:Character1_RightHandRing2
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/game_dude_rig:Character1_RightShoulder/game_dude_rig:Character1_RightArm/game_dude_rig:Character1_RightForeArm/game_dude_rig:Character1_RightHand/game_dude_rig:Character1_RightHandRing1/game_dude_rig:Character1_RightHandRing2/game_dude_rig:Character1_RightHandRing3
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/game_dude_rig:Character1_RightShoulder/game_dude_rig:Character1_RightArm/game_dude_rig:Character1_RightForeArm/game_dude_rig:Character1_RightHand/game_dude_rig:Character1_RightHandThumb1
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/game_dude_rig:Character1_RightShoulder/game_dude_rig:Character1_RightArm/game_dude_rig:Character1_RightForeArm/game_dude_rig:Character1_RightHand/game_dude_rig:Character1_RightHandThumb1/game_dude_rig:Character1_RightHandThumb2
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/game_dude_rig:Character1_Hips/game_dude_rig:Character1_Spine/game_dude_rig:Character1_Spine1/game_dude_rig:Character1_RightShoulder/game_dude_rig:Character1_RightArm/game_dude_rig:Character1_RightForeArm/game_dude_rig:Character1_RightHand/game_dude_rig:Character1_RightHandThumb1/game_dude_rig:Character1_RightHandThumb2/game_dude_rig:Character1_RightHandThumb3
+        weight: 1
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/ikHandle5
+        weight: 0
+      - path: Ctrl_Scale/game_dude_rig:Character1_Reference/ikHandle6
+        weight: 0
+      - path: pCube1
+        weight: 0
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .75
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human:
+    - boneName: game_dude_rig:Character1_Hips
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: game_dude_rig:Character1_LeftUpLeg
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: game_dude_rig:Character1_RightUpLeg
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: game_dude_rig:Character1_LeftLeg
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: game_dude_rig:Character1_RightLeg
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: game_dude_rig:Character1_LeftFoot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: game_dude_rig:Character1_RightFoot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: game_dude_rig:Character1_Spine
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: game_dude_rig:Character1_Spine1
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: game_dude_rig:Character1_Neck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: game_dude_rig:Character1_Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Character1_Left_Shoulder
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: game_dude_rig:Character1_RightShoulder
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Character1_Left_Arm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: game_dude_rig:Character1_RightArm
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Character1_LeftForeArm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: game_dude_rig:Character1_RightForeArm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Character1_LeftHand
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: game_dude_rig:Character1_RightHand
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: game_dude_rig:Character1_LeftToeBase
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: game_dude_rig:Character1_RightToeBase
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Character1_RightHandThumb1
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Character1_RightHandThumb2
+      humanName: Left Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Character1_RightHandThumb3
+      humanName: Left Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Character1_RightHandIndex1
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Character1_RightHandIndex2
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Character1_RightHandIndex3
+      humanName: Left Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Character1_RightHandMiddle1
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Character1_RightHandMiddle2
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Character1_RightHandMiddle3
+      humanName: Left Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Character1_RightHandRing1
+      humanName: Left Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Character1_RightHandRing2
+      humanName: Left Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Character1_RightHandRing3
+      humanName: Left Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Character1_RightHandPinky1
+      humanName: Left Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Character1_RightHandPinky2
+      humanName: Left Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Character1_RightHandPinky3
+      humanName: Left Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: game_dude_rig:Character1_RightHandThumb1
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: game_dude_rig:Character1_RightHandThumb2
+      humanName: Right Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: game_dude_rig:Character1_RightHandThumb3
+      humanName: Right Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: game_dude_rig:Character1_RightHandIndex1
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: game_dude_rig:Character1_RightHandIndex2
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: game_dude_rig:Character1_RightHandIndex3
+      humanName: Right Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: game_dude_rig:Character1_RightHandMiddle1
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: game_dude_rig:Character1_RightHandMiddle2
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: game_dude_rig:Character1_RightHandMiddle3
+      humanName: Right Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: game_dude_rig:Character1_RightHandRing1
+      humanName: Right Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: game_dude_rig:Character1_RightHandRing2
+      humanName: Right Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: game_dude_rig:Character1_RightHandRing3
+      humanName: Right Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: game_dude_rig:Character1_RightHandPinky1
+      humanName: Right Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: game_dude_rig:Character1_RightHandPinky2
+      humanName: Right Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: game_dude_rig:Character1_RightHandPinky3
+      humanName: Right Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: gamedudeTest(Clone)
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Character_Mesh_Group
+      position: {x: 0, y: 1.09090722, z: 0}
+      rotation: {x: 0, y: -0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: arm_armor_mesh
+      position: {x: -0, y: -1.09090722, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: boots_mesh
+      position: {x: -0, y: -1.09090722, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: hair_mesh
+      position: {x: -0, y: -1.09090722, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: harness_mesh
+      position: {x: -0, y: -1.09090722, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: head_mesh
+      position: {x: -0, y: -1.09090722, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: knee_armor_mesh
+      position: {x: -0, y: -1.09090722, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: L_arm_mesh
+      position: {x: -0, y: -1.09090722, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: L_eye_mesh
+      position: {x: -0, y: -1.09090722, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: L_leg_mesh
+      position: {x: -0, y: -1.09090722, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: R_arm_mesh
+      position: {x: -0, y: -1.09090722, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: R_eye_mesh
+      position: {x: -0, y: -1.09090722, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: R_leg_mesh
+      position: {x: -0, y: -1.09090722, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: shoulder_armor_mesh
+      position: {x: -0, y: -1.09090722, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: torso_mesh
+      position: {x: -0, y: -1.09090722, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: tunic_mesh
+      position: {x: -0, y: -1.09090722, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Ctrl_Scale
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: 0, w: 1}
+      scale: {x: .0199999996, y: .0199999996, z: .0199999996}
+      transformModified: 1
+    - name: ControlObjects
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: LocControl
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: helperArrowsGRP
+      position: {x: -0, y: 0, z: -.54833132}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: helperArrow1
+      position: {x: -0, y: 0, z: .54833132}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: helperArrow2
+      position: {x: -0, y: 0, z: .54833132}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: helperArrow3
+      position: {x: -0, y: 0, z: .54833132}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: helperArrow4
+      position: {x: -0, y: 0, z: .54833132}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: HipControl
+      position: {x: -0, y: 65.078537, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: TorsoControl
+      position: {x: 2.93098879e-13, y: 15.1714649, z: 2.61409044}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: headControl
+      position: {x: -2.93098879e-13, y: 42.0073166, z: -5.41155815}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: LArmCtrls
+      position: {x: -2.93098879e-13, y: -80.2500076, z: -2.61409044}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: ArmControlL
+      position: {x: -15.9733086, y: 99.1984711, z: -1.25959337}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: LowerArmControlL
+      position: {x: -9.59462547, y: -9.13958454, z: -1.90137959}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: HandControlL
+      position: {x: -16.7973976, y: -11.8294954, z: 6.65607357}
+      rotation: {x: 0, y: 0, z: .298331439, w: .954462349}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: LHandControls
+      position: {x: -2.93098879e-13, y: -80.2500076, z: -2.61409044}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RArmCtrls
+      position: {x: -2.93098879e-13, y: -80.2500076, z: -2.61409044}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: ArmControlR
+      position: {x: 15.9733086, y: 99.1984711, z: -1.25959337}
+      rotation: {x: 0, y: 0, z: .0294309519, w: .999566853}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: LowerArmControlR
+      position: {x: 9.59462547, y: -9.13958454, z: -1.90137959}
+      rotation: {x: 0, y: -.0473943874, z: -0, w: .998876274}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: HandControlR
+      position: {x: 16.7973976, y: -11.8294954, z: 6.65607357}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RHandControls
+      position: {x: -2.93098879e-13, y: -80.2500076, z: -2.61409044}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: -1, y: 1, z: 1}
+      transformModified: 1
+    - name: ShoulderL
+      position: {x: -9.2344017, y: 21.505537, z: -15.6429386}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: ShoulderR
+      position: {x: 7.68601608, y: 21.3577957, z: -15.6848106}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: KneeDirectionL
+      position: {x: -10.7798462, y: 39.1704178, z: 23.8490105}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: KneeDirectionR
+      position: {x: 18.2808094, y: 39.156456, z: 22.5626659}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: LegControlL
+      position: {x: -12.1402245, y: 6.11278629, z: -1.36969304}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: LegControlR
+      position: {x: 11.4393692, y: 6.11278629, z: -1.36969304}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: game_dude_rig:Character1_Reference
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: curve1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: game_dude_rig:Character1_Hips
+      position: {x: -0, y: 65.078537, z: 0}
+      rotation: {x: -.292939216, y: .643573344, z: .292939216, w: .643573344}
+      scale: {x: .999999881, y: .999999821, z: .99999994}
+      transformModified: 1
+    - name: game_dude_rig:Character1_LeftUpLeg
+      position: {x: 8.39584231e-07, y: 10.8439159, z: 2.56840758e-06}
+      rotation: {x: .888190567, y: .0247653238, z: -.131303862, w: -.439617425}
+      scale: {x: 1.00000012, y: 1.00000012, z: 1.00000012}
+      transformModified: 1
+    - name: game_dude_rig:Character1_LeftLeg
+      position: {x: 3.74593014e-07, y: 32.530838, z: -7.68837026e-07}
+      rotation: {x: -.0500542335, y: -.00498051103, z: -.162285849, w: .985460877}
+      scale: {x: 1, y: 1, z: .99999994}
+      transformModified: 1
+    - name: game_dude_rig:Character1_LeftFoot
+      position: {x: -3.5967696e-07, y: 34.9850349, z: 2.70686712e-07}
+      rotation: {x: .0800827965, y: .114952333, z: .690970957, w: .709176898}
+      scale: {x: 1, y: .99999994, z: 1}
+      transformModified: 1
+    - name: game_dude_rig:Character1_LeftToeBase
+      position: {x: 8.44664498e-07, y: 15.7765789, z: -7.1942452e-14}
+      rotation: {x: -.191042662, y: .131059989, z: .946201146, w: .225896761}
+      scale: {x: 1, y: 1.00000012, z: 1}
+      transformModified: 1
+    - name: game_dude_rig:Character1_RightUpLeg
+      position: {x: -8.0790835e-07, y: -1.48960745, z: 10.7411165}
+      rotation: {x: .929831028, y: -.0256653987, z: -.02076157, w: -.366503119}
+      scale: {x: 1.00000012, y: 1.00000012, z: 1.00000012}
+      transformModified: 1
+    - name: game_dude_rig:Character1_RightLeg
+      position: {x: -2.5169723e-07, y: 32.530838, z: 7.68836856e-07}
+      rotation: {x: .0500542335, y: .00498051103, z: -.162285849, w: .985460877}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: game_dude_rig:Character1_RightFoot
+      position: {x: -9.03754994e-07, y: 34.9850349, z: -2.38631827e-07}
+      rotation: {x: -2.15705374e-08, y: -2.07267234e-08, z: .692862391, w: .721069872}
+      scale: {x: 1, y: .99999994, z: 1}
+      transformModified: 1
+    - name: game_dude_rig:Character1_RightToeBase
+      position: {x: 7.00352302e-07, y: 15.7765789, z: -7.46069873e-14}
+      rotation: {x: .490666598, y: -.172519922, z: .826168478, w: -.216630563}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: game_dude_rig:Character1_Spine
+      position: {x: -2.61409092, y: 9.96380806, z: 11.4409781}
+      rotation: {x: .402055591, y: .0998903587, z: -.219454303, w: .883296669}
+      scale: {x: 1.00000012, y: 1, z: 1.00000012}
+      transformModified: 1
+    - name: game_dude_rig:Character1_Spine1
+      position: {x: 1.72338119e-07, y: 15.8422794, z: 8.66610961e-08}
+      rotation: {x: -.355992913, y: -.00447129924, z: .426938474, w: .831247628}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Character1_Left_Shoulder
+      position: {x: -.0659029856, y: 10.7172003, z: .302415073}
+      rotation: {x: .117763959, y: .536570728, z: .810468197, w: .203383371}
+      scale: {x: 1, y: 1.00000012, z: 1.00000012}
+      transformModified: 1
+    - name: Character1_Left_Arm
+      position: {x: .252277195, y: -8.45706844, z: .000391620764}
+      rotation: {x: -.133190885, y: -.060978286, z: .0207049828, w: .988996089}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Character1_LeftForeArm
+      position: {x: -1.88349459e-05, y: -13.3868732, z: -.000196467576}
+      rotation: {x: .0848787576, y: -.0289174151, z: .0346512794, w: .995368659}
+      scale: {x: 1, y: 1, z: .99999994}
+      transformModified: 1
+    - name: Character1_LeftHand
+      position: {x: .370193064, y: -22.4292393, z: 5.24992752}
+      rotation: {x: -.0052707321, y: -.685133934, z: -.0318615511, w: .727700949}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Character1_RightHandIndex1
+      position: {x: .17161265, y: -6.72934055, z: -2.29464769}
+      rotation: {x: .26959914, y: .781226575, z: -.104597174, w: .553227603}
+      scale: {x: 1, y: .99999994, z: .99999994}
+      transformModified: 1
+    - name: Character1_RightHandIndex2
+      position: {x: -.667390585, y: -3.49512148, z: 1.9615159}
+      rotation: {x: -.0476100929, y: -.0780008212, z: -.057401035, w: .994160056}
+      scale: {x: 1, y: 1, z: 1.00000012}
+      transformModified: 1
+    - name: Character1_RightHandIndex3
+      position: {x: -1.59036244e-05, y: -3.24398708, z: 1.19556999}
+      rotation: {x: -.0296514444, y: .91774857, z: .39210692, w: -.0557722673}
+      scale: {x: 1, y: 1.00000012, z: .99999994}
+      transformModified: 1
+    - name: Character1_RightHandMiddle1
+      position: {x: .673590541, y: -6.60669041, z: -.481492817}
+      rotation: {x: .233668745, y: .653895855, z: -.190637916, w: .693884969}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Character1_RightHandMiddle2
+      position: {x: .103485495, y: -3.0903964, z: 1.84266365}
+      rotation: {x: .0175065175, y: -.0428467095, z: .0232083686, w: .998658597}
+      scale: {x: .99999994, y: .99999994, z: 1}
+      transformModified: 1
+    - name: Character1_RightHandMiddle3
+      position: {x: -1.3630086e-05, y: -3.81288958, z: 2.1176517}
+      rotation: {x: .304035664, y: .0643462017, z: .934087157, w: .175792813}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Character1_RightHandPinky1
+      position: {x: .642731071, y: -6.48861265, z: 3.36926556}
+      rotation: {x: .18107985, y: .640230834, z: -.173079982, w: .726194143}
+      scale: {x: 1, y: .99999994, z: 1}
+      transformModified: 1
+    - name: Character1_RightHandPinky2
+      position: {x: .379280746, y: -2.4139502, z: 1.13440621}
+      rotation: {x: -.0296160206, y: -.0324270204, z: .0662755221, w: .996834517}
+      scale: {x: .99999994, y: 1, z: 1}
+      transformModified: 1
+    - name: Character1_RightHandPinky3
+      position: {x: -1.03963466e-05, y: -2.80434799, z: .91539377}
+      rotation: {x: .548882067, y: -.0189535748, z: .776446104, w: .309032083}
+      scale: {x: 1, y: .999999881, z: 1}
+      transformModified: 1
+    - name: Character1_RightHandRing1
+      position: {x: .920369983, y: -6.55404425, z: 1.73232758}
+      rotation: {x: .154953778, y: .672468424, z: -.0932346582, w: .717692792}
+      scale: {x: .99999994, y: 1, z: .99999994}
+      transformModified: 1
+    - name: Character1_RightHandRing2
+      position: {x: .274671108, y: -3.09943342, z: .986309648}
+      rotation: {x: -.126035422, y: -.061917875, z: .0317817293, w: .989581347}
+      scale: {x: 1, y: .99999994, z: 1}
+      transformModified: 1
+    - name: Character1_RightHandRing3
+      position: {x: -5.73258658e-05, y: -4.21006107, z: 3.23976419e-05}
+      rotation: {x: .634397924, y: -.223091632, z: .738629222, w: .0468646102}
+      scale: {x: .99999994, y: 1.00000012, z: 1}
+      transformModified: 1
+    - name: Character1_RightHandThumb1
+      position: {x: -.942077041, y: -3.12259269, z: -3.29617405}
+      rotation: {x: .360962957, y: .437631726, z: .105031736, w: .816794097}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Character1_RightHandThumb2
+      position: {x: 6.66535016e-06, y: -2.9401679, z: -1.63390469e-05}
+      rotation: {x: .096495308, y: .0323945247, z: -.0360936411, w: .994151175}
+      scale: {x: 1, y: .99999994, z: 1}
+      transformModified: 1
+    - name: Character1_RightHandThumb3
+      position: {x: -2.24097093e-05, y: -3.4983995, z: .750954688}
+      rotation: {x: -.434678793, y: .869417846, z: .165580213, w: -.166583881}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: game_dude_rig:Character1_Neck
+      position: {x: .360533327, y: 11.4951439, z: 9.31555748}
+      rotation: {x: .346567661, y: -.0814971998, z: -.213912502, w: .909665048}
+      scale: {x: .99999994, y: .99999994, z: 1}
+      transformModified: 1
+    - name: game_dude_rig:Character1_Head
+      position: {x: 5.89341425e-07, y: 15.0000019, z: 7.97584655e-14}
+      rotation: {x: .673854053, y: -.627316713, z: -.166156128, w: -.353251517}
+      scale: {x: 1, y: 1.00000012, z: 1.00000012}
+      transformModified: 1
+    - name: game_dude_rig:Character1_RightShoulder
+      position: {x: -3.80506897, y: 3.1277914, z: 9.5787096}
+      rotation: {x: .940427005, y: -.22114633, z: -.0591155849, w: .251389623}
+      scale: {x: 1, y: 1.00000012, z: 1.00000012}
+      transformModified: 1
+    - name: game_dude_rig:Character1_RightArm
+      position: {x: 3.87324462e-07, y: 8.46094227, z: -3.98112206e-06}
+      rotation: {x: -.132868975, y: -.0234690607, z: -.000256156462, w: .990855753}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: game_dude_rig:Character1_RightForeArm
+      position: {x: -5.94043115e-07, y: 13.3867121, z: 2.87432363e-06}
+      rotation: {x: -.0300700385, y: .0307279415, z: .0348371677, w: .998467803}
+      scale: {x: 1, y: 1, z: .99999994}
+      transformModified: 1
+    - name: game_dude_rig:Character1_RightHand
+      position: {x: -2.64069143e-07, y: 23.0383339, z: 0}
+      rotation: {x: .344979972, y: -.265339077, z: .289930493, w: .852363944}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: game_dude_rig:Character1_RightHandIndex1
+      position: {x: 1.63621902, y: 6.12781429, z: -3.21752882}
+      rotation: {x: -.237665176, y: .40865621, z: -.387989789, w: .791188538}
+      scale: {x: 1, y: .99999994, z: .99999994}
+      transformModified: 1
+    - name: game_dude_rig:Character1_RightHandIndex2
+      position: {x: 3.28610298e-07, y: 4.0630827, z: 1.70204248e-06}
+      rotation: {x: .0349673629, y: -.0802724212, z: -.0012604451, w: .996158659}
+      scale: {x: 1, y: 1, z: 1.00000012}
+      transformModified: 1
+    - name: game_dude_rig:Character1_RightHandIndex3
+      position: {x: -3.53793979e-07, y: 3.45727515, z: 2.33154788e-06}
+      rotation: {x: .0193947945, y: .0131472778, z: .99791652, w: -.0601131953}
+      scale: {x: 1, y: 1.00000012, z: .99999994}
+      transformModified: 1
+    - name: game_dude_rig:Character1_RightHandMiddle1
+      position: {x: 2.39943886, y: 4.65441418, z: -4.11264658}
+      rotation: {x: -.272228301, y: .2069076, z: -.348540097, w: .872697413}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: game_dude_rig:Character1_RightHandMiddle2
+      position: {x: -8.12120163e-07, y: 3.59955549, z: 1.37506561e-06}
+      rotation: {x: .0320176892, y: -.0426215827, z: -.0158238728, w: .998452723}
+      scale: {x: .99999994, y: .99999994, z: 1}
+      transformModified: 1
+    - name: game_dude_rig:Character1_RightHandMiddle3
+      position: {x: 1.24045255e-06, y: 4.36146975, z: 5.67399468e-07}
+      rotation: {x: .338405371, y: -.171961814, z: .920374036, w: .0939286053}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: game_dude_rig:Character1_RightHandPinky1
+      position: {x: 4.76942682, y: 1.84400821, z: -5.26504374}
+      rotation: {x: -.298793912, y: .0621973947, z: -.29979825, w: .903866529}
+      scale: {x: 1, y: .99999994, z: 1}
+      transformModified: 1
+    - name: game_dude_rig:Character1_RightHandPinky2
+      position: {x: 2.72520539e-09, y: 2.69403553, z: -9.4327379e-07}
+      rotation: {x: .0275668502, y: -.0283485912, z: -.0215944964, w: .998984516}
+      scale: {x: .99999994, y: 1, z: 1}
+      transformModified: 1
+    - name: game_dude_rig:Character1_RightHandPinky3
+      position: {x: -4.35136172e-07, y: 2.94993782, z: 2.79950427e-07}
+      rotation: {x: .590616465, y: -.14070183, z: .76382637, w: .218962282}
+      scale: {x: 1, y: .999999881, z: 1}
+      transformModified: 1
+    - name: game_dude_rig:Character1_RightHandRing1
+      position: {x: 3.604671, y: 2.99521399, z: -4.983953}
+      rotation: {x: -.282657236, y: .0966808572, z: -.312281191, w: .901797175}
+      scale: {x: .99999994, y: 1, z: .99999994}
+      transformModified: 1
+    - name: game_dude_rig:Character1_RightHandRing2
+      position: {x: -2.60647653e-07, y: 3.26414037, z: 2.00834484e-06}
+      rotation: {x: .0241376311, y: -.0498711132, z: -.0205348115, w: .998252809}
+      scale: {x: 1, y: .99999994, z: 1}
+      transformModified: 1
+    - name: game_dude_rig:Character1_RightHandRing3
+      position: {x: -5.97619731e-08, y: 4.21006918, z: -3.92375432e-06}
+      rotation: {x: .634397924, y: -.223091647, z: .738629282, w: .0468646027}
+      scale: {x: .99999994, y: 1.00000012, z: 1}
+      transformModified: 1
+    - name: game_dude_rig:Character1_RightHandThumb1
+      position: {x: -2.49227332e-06, y: 4.63716793, z: 2.01887019e-06}
+      rotation: {x: -.090313673, y: .0225052293, z: .0618526302, w: .993735969}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: game_dude_rig:Character1_RightHandThumb2
+      position: {x: 3.15491491e-07, y: 2.94013309, z: -1.64080188e-06}
+      rotation: {x: -.00895612873, y: .0360209197, z: -.0324793421, w: .998782933}
+      scale: {x: 1, y: .99999994, z: 1}
+      transformModified: 1
+    - name: game_dude_rig:Character1_RightHandThumb3
+      position: {x: 2.35254356e-06, y: 3.57811761, z: 1.93562687e-06}
+      rotation: {x: -.449829668, y: .847092688, z: .256394476, w: -.119787797}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: ikHandle5
+      position: {x: -11.4393692, y: 6.11278629, z: -6.99295616}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: ikHandle6
+      position: {x: 11.4393673, y: 6.11278629, z: -6.99295616}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pCube1
+      position: {x: -.921010256, y: 1.47576106, z: .14885886}
+      rotation: {x: -2.56083492e-08, y: -4.77707918e-09, z: -2.25312444e-08, w: 1}
+      scale: {x: .100000001, y: .100000001, z: .100000001}
+      transformModified: 1
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  additionalBone: 0
+  userData: 

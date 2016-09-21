@@ -1,0 +1,82 @@
+<trivia>
+	<item>
+		<question>Who is known as the original drummer of the Beatles?</question>
+		<answers>
+			<answer>Pete Best</answer>
+			<answer>Ringo Starr</answer>
+			<answer>Stu Sutcliffe</answer>
+			<answer>George Harrison</answer>
+		</answers>
+		<correctAnswer>1</correctAnswer>
+	</item>
+	<item>
+		<question>Which member of the Monkees has a famous mother?</question>
+		<answers>
+			<answer>Mike Townsend</answer>
+			<answer>Davy Jones</answer>
+			<answer>Peter Torkelson</answer>
+			<answer>Mickey Dolenz</answer>
+		</answers>
+		<correctAnswer>4</correctAnswer>
+	</item>	
+	<item>
+		<question>Which band recorded the song Ballad of Easy Rider?</question>
+		<answers>
+			<answer>Buffalo Srpingfield</answer>
+			<answer>The Byrds</answer>
+			<answer>The Beatles</answer>
+			<answer>The Rolling Stones</answer>
+		</answers>
+		<correctAnswer>2</correctAnswer>
+	</item>		
+	<item>
+		<question>Which popular singer from the 50's was known as Old Blue Eyes?</question>
+		<answers>
+			<answer>Dean Martin</answer>
+			<answer>Sammy Daivs Jr.</answer>
+			<answer>Frank Sinatra</answer>
+			<answer>Perry Como</answer>
+		</answers>
+		<correctAnswer>3</correctAnswer>
+	</item>	
+	<item>
+		<question>What famous singer starred in and directed YENTL?</question>
+		<answers>
+			<answer>Patty Page</answer>
+			<answer>Barbara Streisand</answer>
+			<answer>Lady GaGa</answer>
+			<answer>Madonna</answer>
+		</answers>
+		<correctAnswer>2</correctAnswer>
+	</item>	
+	<item>
+		<question>Which of the four Beatles at one time owned many of Michael Jackson's songs?</question>
+		<answers>
+			<answer>George Harrison</answer>
+			<answer>Ringo Starr</answer>
+			<answer>John Lennon</answer>
+			<answer>Paul McCartney</answer>
+		</answers>
+		<correctAnswer>4</correctAnswer>
+	</item>	
+	<item>
+		<question>Which folk band is famous for the song PUFF THE MAGIC DRAGON?</question>
+		<answers>
+			<answer>Buffalo Srpingfield</answer>
+			<answer>Peter, Paul and Mary</answer>
+			<answer>James Tyalor</answer>
+			<answer>Pete Seeger</answer>
+		</answers>
+		<correctAnswer>2</correctAnswer>
+	</item>	
+	<item>
+		<question>Which singer who often appeared in Las Vegas was known for his high pitch voice?</question>
+		<answers>
+			<answer>Wayne Newton</answer>
+			<answer>Petula Clark</answer>
+			<answer>Dean Martin</answer>
+			<answer>Nat King Cole</answer>
+		</answers>
+		<correctAnswer>1</correctAnswer>
+	</item>	
+</trivia>

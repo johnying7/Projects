@@ -1,0 +1,75 @@
+Initialize engine version: 5.3.1f1 (cc9cbbcc37b4)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [nvd3dum.dll 10.18.13.6143]
+    Renderer: NVIDIA GeForce GTX 970
+    Vendor:   NVIDIA
+    VRAM:     3072 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=0 INTZ=1 NULL=1 RESZ=0 SlowINTZ=0
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\John\Google Drive\3 Days Game\3 days_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\John\Google Drive\3 Days Game\3 days_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\John\Google Drive\3 Days Game\3 days_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\John\Google Drive\3 Days Game\3 days_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\John\Google Drive\3 Days Game\3 days_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\John\Google Drive\3 Days Game\3 days_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\John\Google Drive\3 Days Game\3 days_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading C:\Users\John\Google Drive\3 Days Game\3 days_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\John\Google Drive\3 Days Game\3 days_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\John\Google Drive\3 Days Game\3 days_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\John\Google Drive\3 Days Game\3 days_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\John\Google Drive\3 Days Game\3 days_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\John\Google Drive\3 Days Game\3 days_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\John\Google Drive\3 Days Game\3 days_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\John\Google Drive\3 Days Game\3 days_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\John\Google Drive\3 Days Game\3 days_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.270 seconds
+Platform assembly: C:\Users\John\Google Drive\3 Days Game\3 days_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\John\Google Drive\3 Days Game\3 days_Data\Managed\System.dll (this message is harmless)
+desktop: 1600x900 60Hz; virtual: 3200x900 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Shader 'aScattering 2.0': fallback shader 'None' not found
+WARNING: Shader Unsupported: 'aScattering 2.0' - Pass '' has no vertex shader
+WARNING: Shader Unsupported: 'aScattering 2.0' - Setting to default shader.
+UnloadTime: 0.760396 ms
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1498)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1498)
+
+The referenced script on this Behaviour (Game Object 'Nighttime Simple Water') is missing!
+ 
+(Filename:  Line: 1655)
+
+The referenced script on this Behaviour (Game Object 'Nighttime Simple Water') is missing!
+ 
+(Filename:  Line: 1655)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.341651 ms
+File Terrain.dat found. Please load terrain during RUNTIME.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+
+Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 25773.
+Total: 22.380230 ms (FindLiveObjects: 2.535505 ms CreateObjectMapping: 1.710637 ms MarkObjects: 17.523016 ms  DeleteObjects: 0.609030 ms)
+
+WARNING: Shader Unsupported: 'Outlined/Silhouetted Diffuse' - Pass 'OUTLINE' has no vertex shader
+turning to day
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+increase day: 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Platform assembly: C:\Users\John\Google Drive\3 Days Game\3 days_Data\Managed\Boo.Lang.dll (this message is harmless)
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 3f50 -> priority: 1 
+  Thread -> id: 2da8 -> priority: 1 

@@ -1,0 +1,53 @@
+Located in frame 1 of main timeline
+var speed:Number = 1;
+var xDiff:Number;
+var yDiff:Number;
+var radians:Number;
+var degrees:Number;
+
+carSpeed.text = String(Math.round((speed * 10)) / 10);
+
+graphics.clear();
+graphics.lineStyle(2,0xFF0000,1);
+graphics.moveTo(car.x, car.y);
+
+stage.addEventListener(MouseEvent.MOUSE_MOVE, rotateCar);
+stage.addEventListener(Event.ENTER_FRAME, moveCar);
+stage.addEventListener(KeyboardEvent.KEY_DOWN, changeSpeed);
+
+function rotateCar(event:MouseEvent):void
+{
+	xDiff = mouseX - car.x;
+	yDiff = mouseY - car.y;
+	radians = Math.atan2(yDiff, xDiff);
+	degrees = radians * 180 / Math.PI;
+	car.rotation = degrees;
+}
+
+function moveCar(event:Event):void
+{
+	degrees = car.rotation;
+	radians = degrees * Math.PI / 180;
+	car.xmov = speed * Math.cos(radians);
+	car.ymov = speed * Math.sin(radians);
+	car.x += car.xmov;
+	car.y += car.ymov;
+	graphics.lineTo(car.x, car.y);
+}
+
+function changeSpeed(event:KeyboardEvent):void
+{
+	if(event.keyCode == Keyboard.UP){
+		speed += .2;
+	}
+	if(event.keyCode == Keyboard.DOWN){
+		speed -= .2;
+	}
+	if(event.keyCode == 32){
+		graphics.clear();
+		graphics.lineStyle(2,0xFF0000,1);
+		graphics.moveTo(car.x, car.y);
+	}
+	carSpeed.text = String(Math.round((speed * 10)) / 10);
+}
+
